@@ -1,0 +1,720 @@
+The following safety guidelines are intended to prevent unforeseen risks or damage
+from unsafe or incorrect operation of the appliance.
+The guidelines are separated into WARNING and CAUTION as described below.
+This symbol is displayed to indicate matters and operations that can
+cause risk. Read the part with this symbol carefully and follow the
+instructions in order to avoid risk.
+WARNING - This indicates that the failure to follow the instructions can
+cause serious injury or death.
+CAUTION - This indicates that the failure to follow the instructions can
+cause minor injury or damage the product.
+
+To reduce the risk of explosion, fire, death, electric shock, injury or scalding
+to persons when using this product, follow basic precautions, including the
+following:
+
+ Keep ventilation openings, in the appliance enclosure or in the built-in structure,
+clear of obstruction.
+ Do not use mechanical devices or other means to accelerate the defrosting process,
+other than those recommended by the manufacturer.
+ Do not damage the refrigerant circuit.
+ Do not use electrical appliances inside the food storage compartments of the
+appliance, unless they are of the type recommended by the manufacturer.
+ The refrigerant and insulation blowing gas used in the appliance require special
+disposal procedures. Consult with service agent or a similarly qualified person before
+disposing of them.
+ This appliance contains a small amount of isobutane refrigerant (R600a), natural gas
+with high environmental compatibility, but it is also combustible. When transporting
+and installing the appliance, care should be taken to ensure that no parts of the
+refrigerating circuit are damaged.
+ Refrigerant squirting out of the pipes could ignite or cause an eye injury.
+ If a leak is detected, avoid any naked flames or potential sources of ignition and air
+the room in which the appliance is standing for several minutes.
+ The amount of refrigerant in your particular appliance is shown on the identification
+plate inside the appliance.
+ Never start up an appliance showing any signs of damage. If in doubt, consult your
+dealer.
+ Only an authorized repair person from LG Electronics service centre should
+disassemble, repair, or modify the product. Contact LG Electronics service centre if
+you move the product. Improper service may cause injury, electric shock or fire.
+
+To reduce the risk of explosion, fire, death, electric shock, injury or scalding to
+persons when using this product, follow basic precautions, including the
+following:
+
+ Product installation should be done only by LG service technician.
+ Ground the product for safety. For more details on grounding, inquire at LG
+Electronics service centre.
+ For counter-top installation, install the product on a solid and flat area. If the product
+is installed on an uneven floor, it can generate vibration and noise or cause
+misalignment of the product.
+ Do not install the product in a damp area and keep away from splashing rain or
+water.
+ This appliance is equipped with a cord having an equipment-grounding conductor
+and grounding plug. The plug must be plugged into an appropriate outlet that is
+properly installed and grounded in accordance with all local codes and ordinances. 
+ Use only grounded extension socket outlets.
+ Do not plug multiple products into multiple socket-outlets or extension cords.
+ Do not touch the power plug with wet hands.
+ Plug the power plug in the outlet tightly after removing the moisture and dust
+completely.
+ When pulling out the power plug from an outlet, hold the power plug, not the cable.
+ If the power cable or power plug is damaged or the hole of the outlet socket is loose,
+do not use the power plug and contact LG Electronics service centre.
+ Unplug the power plug during thunder or lightening or when not in use for a long
+period of time.
+ Do not bend the power cable excessively or place a heavy object on top of it.
+ Do not extend the length of the power cable or alter it.
+ Do not plug and unplug the power plug repeatedly.
+
+ In case of flood, stop using the product and contact LG Electronics service centre.
+ If there is a gas leakage (isobutane, propane, natural gas, etc.), do not touch the
+product or power plug and ventilate the area immediately. Sparks can cause
+explosion, fire or injury. This product uses an eco-friendly gas (isobutane, R600a) as
+the refrigerant. Although it uses a small amount of the gas, it is still combustible gas.
+ Do not clean the product with brushes, cloths or sponges with rough surfaces or
+which are made of metallic material.
+ Immediately unplug the power plug and contact LG Electronics service centre if you
+detect any abnormal noise, odour or smoke.
+ Do not place hands or metallic objects below the product or heat releasing grill
+(exhaust pipe) on the back .
+ There can be sharp edges in a disassembled set, special care to be taken while
+handling.
+ Do not place heavy or fragile objects, liquids, combustible substances, or flammable
+objects (such as candles and lamps) on or inside the product.
+ Do not use or store flammable or combustible substances (ether, benzene, alcohol,
+chemical, LPG, combustible spray, insecticide, air freshener, cosmetics, etc.) near
+the product.
+ If moisture penetrates inside the product, unplug the power plug and contact LG
+Electronics service centre.
+ If water is leaking from the inside of the product or water has collected near the
+product, close the water supply valve, unplug the power plug, and contact LG
+Electronics service centre.
+ Do not move the product while the product is plugged in.
+
+To reduce the risk of minor injury to persons, malfunction, or damage to the
+product or property when using this product, follow basic precautions, including
+the following:
+
+ Connect the water pipe of the product to tap water only. Water other than tap water
+can increase the risk of exposure to disease.
+
+ Hot water may spattered, so install the drain hose carefully to the drain.
+
+
+ Replace the filter with a LG standard filter periodically according to the replacement
+period. Older filters can multiply bacteria or change the taste of the water. The filter
+replacement period varies according to the usage, place of usage, season, and water
+quality.
+ When using hot water,
+use a container with a handle. (Only applicable to a model with
+hot water function)
+ If the drip tray of the product protrudes from a desk or table, do not place any article on
+top of the drip tray.
+ Take care against the possibility of damaging the pipe (inlet, outlet) in order to prevent
+water leakage.
+ When cleaning the product, unplug the power plug.
+ Do not allow anyone to hang from or climb on the product. Be particularly cautious of
+children operating the product.
+
+
+
+
+ Keep a distance of over 10 cm between the back
+and sides of the product and the wall for smooth
+ventilation. Not doing so can cause malfunctions.
+
+
+Connect the product hoses as shown below.
+ Connect the white (water supply) hose to tap
+water.
+
+ When connecting the water hose, do not connect it
+to the hot water pipe. Doing so may cause
+malfunctions.
+
+ Install the blue (drain) hose on the sink.
+
+ Check the pipe and hose connection for leaks.
+Water can leak and cause electric shock or injury.
+ When transporting the product, do not tilt the
+product over 30 degrees. Doing so can cause
+malfunctions.
+ Install the product in an indoor place with a
+surrounding temperature of over 5 C and less than
+43 C. Not doing so can cause malfunctions.
+
+
+ Avoid installing the water purifier in a place with an
+uneven ground, a large amount of moisture, direct
+sunlight, dust and direct water splashing.
+blue hose
+
+
+
+Connect the power plug to an appropriate socket.
+
+
+
+Open the water supply valve.
+
+
+
+After tank is full, discharge the water for first time.
+(approximately time taken to fill the tank to fullest is
+1hour, depending on water pressure, temperature
+etc.)
+
+
+Notes for Operation
+ Open the water supply valve. The water purifier
+operates normally only when water is supplied
+properly.
+
+
+
+ When the hot water and cold water temperature
+icons are turned off, check if the power supply has
+been suspended due to power failure or other
+
+reasons.
+ It is very important to replace the filter periodically in
+order to drink clean water. When using an expired
+filter, the performance of water filtration system can
+deteriorate. Always abide by the filter replacement
+period.
+
+(For WW1* Series)
+ If the product has not been#used for a long period of
+time, discharge cold water , ROOM TEMP., and hot
+water # for 10 minutes each, and then use. Old water
+can multiply bacteria or change the water taste.
+
+
+ Do not use purified water for replacing water in the
+humidifier or fishbowl. Leaving purified water as it is
+for a long period of time can multiply bacteria.
+ Use the product only after closing the product cover
+completely. Otherwise, insects or other foreign
+substances may get in.
+
+Note
+
+Water level indicator
+
+ The reverse osmosis contains a replaceable
+treatment component critical for the effective
+reduction of total dissolved solids and that product
+water shall be tested periodically to verify that the
+system is performing properly.
+
+The water level of the storage tank is displayed in
+3 levels.
+
+ Do not use with water that is microbiologically
+unsafe or of unknown quality, without adequate
+disinfection before or after the system.
+
+ The icon is divided into 3 levels according to the
+water level, and as more indication lamps turn
+on, the water level becomes higher.
+However, the water level cannot be adjusted
+discretionally.
+
+
+
+Suggestion for energy saving
+ If the product will not be used for a long period of
+time, unplug the power plug and drain the water
+inside the water filtration system completely.
+ In case the hot water or cold water function will not
+be used, turn the hot water or cold water function
+off. 
+
+
+
+
+Purified water is sterilized by the UV LED.
+Blue color indicates that UV sterilization is ON
+& White color indicates that UV sterilization is OFF.
+(When tank cover is open, UV LED will be
+automatically turned OFF for your safety.)
+
+
+
+When you press the touch lever, purified water will come
+out.
+
+
+If you wish to discharge continuously, lift the touch lever
+upward.
+
+
+The UV LED operates in any of the following 2 cases.
+ It operates for 75 minutes after every 6 hours.
+ It operates for 75 minutes after approximately 2
+seconds when power is turned on following a power
+failure.
+
+
+When the color of indicator changes from blue to
+amber, this indicates that it is time for preventive
+maintenance service. Please call LG customer
+care for service.
+
+Open the valve. You can rinse fruits and vegetables,
+wash dishes and brush your teeth.
+The function discharges water while the valve is opened.
+
+
+Do not use this water for drinking and cooking.
+
+
+Separate the top cover by lifting it upward, and
+then unlock the storage tank cover.
+Caution : Handle with care, sharp edges may
+cause injury.
+
+
+Drain water inside the storage tank completely
+using the drain hose and the water outlet.
+However, do not discard drained water.
+
+
+Caution : Do not put pressure or weight on tank
+cover, it may cause damage or injury.
+
+
+Wipe the surface of the storage tank with a soft clean
+cloth.
+
+
+
+
+Unplug the power plug.
+
+Rinse the storage tank with the drained purified
+water and drain the water completely.
+Caution : Take care of water spattering, it may cause
+electric shock.
+
+
+Insert and lock the storage tank cover.
+
+
+
+Separate the drip grid by pulling it upwards.
+Caution : Handle with care, sharp edges may
+cause injury.
+
+
+
+Close the top cover, plug in the power cord and
+open the water supply valve.
+
+
+
+Some time is necessary to fill water in the tank.
+Wait approximately 1 hour, and then press the touch
+lever and check if water comes out. However, the
+time to fill water may vary according to the water
+pressure.
+
+ Unplug the power plug when cleaning the storage
+tank.
+ Do not clean the tank using tap water.
+
+
+
+Separate the drip tray by pulling it forward.
+
+
+Clean it with water.
+
+
+
+Install the drip tray on the product.
+
+
+
+Place the drip grid on the drip tray, adhere it to the
+front side of the product closely, and gently push it
+to install.
+
+Wipe the surface of the drip tray with a soft clean
+cloth.
+
+ Do not use chemical or detergent for cleaning the
+storage tank. Chemical or detergent will not be
+washed away completely, it can be harmful to the
+human body.
+
+
+
+Clean the water outlet periodically using a soft
+clean brush. Fur or foreign substances can
+accumulate in the water outlet.
+
+ Caution should be taken. If a large amount of water
+is in the drip tray, water can spill out when separating
+the drip tray.
+
+
+ Removes big particles, rust stains, mud etc.
+
+
+ Removes unseen dregs and other contamination.
+
+
+
+ Removes invisible fine particles, residual chlorine,
+VOC(Volatile Organic Compounds) etc.
+
+
+
+
+ Removes dissolved impurities and removes heavy
+metals, bacteria, viruses, VOC etc. from water.
+
+ Do not use water drained from the product for
+drinking or cooking.
+
+
+ Removes odour & improves taste of water.
+
+
+
+ Use the water instead for cleaning the bathroom and
+house, doing the laundry or for other various
+purposes.
+ Activated carbon inside the filter may sometimes
+flow in the storage tank. If so, a fine powder of
+activated carbon used in the post-carbon filter has
+come out, and it is harmless to the human body. If
+found, drain out the water from tank completely.
+
+ Add minerals in the purified water without mixing
+impure water.
+
+The filter replacement period refers to the period that the
+purification performance of the filter is maintained.
+And, the replacement period is lesser in the case
+of a place with poor water quality or a large purification
+amount.
+
+
+
+ Removes big particles, rust stains, mud etc.
+
+
+
+
+ Removes only bacteria and fine particle substance.
+
+
+ If you wish to replace the filter, contact LG Electronics
+service centre.
+ After replacing the filter, check if there is a leak from
+the product.
+ After installation, when tank is full discard the water
+for first time. (approximately time taken to fill the tank
+to fullest is 1hour, depending on water pressure, temp
+etc.)
+ Around 25% of supplied
+water (based on the tap water
+pressure of 3.5 kgf/cm2 at the water temperature of 25
+C) will be purified and the remainder will be drained.
+
+
+
+Water does not come
+out.
+
+ The taste of water may change as it ages
+due to bacterial multiplication. Use the
+water purifier after discharging cold
+water , hot water and ROOM TEMP.
+for 10 minutes each.
+
+Has it been a long time since you
+installed and replaced the filter?
+
+ If an expired filter is used, the
+purification performance may decline.
+It is recommended to replace the filter
+according to the filter replacement period.
+
+
+
+ Request for filter replacement.
+
+
+
+ Open the water supply valve.
+
+Did you miss the filter
+replacement period?
+
+ Request filter replacement.
+
+
+ Open the water supply valve.
+
+Is the power plug unplugged from
+the outlet?
+
+ Plug the power plug in the outlet correctly.
+
+Does water not come out when
+
+you press the discharge button?
+
+ Contact LG Electronics service centre.
+
+
+Cold water , hot water
+or ROOM TEMP. water
+does not come out.
+
+
+
+ Press the power button on the control
+panel to turn it on.
+
+Have you left the water purifier
+for a long period of time
+without using it?
+Water tastes strange.
+
+The purification amount
+has reduced suddenly.
+
+
+ If you have discharged a lot of cold water
+so that there is little water in the storage
+tank, cold water may not come out. Wait a
+while until water is filled inside the storage
+tank and then use. (Only applicable to
+models with a storage tank)
+ If you discharge a large amount of cold
+water at once, the temperature of cold
+water inside the cold water tank will rise.
+Wait a while until cold water becomes
+colder and then use. (Only applicable to
+models with a cooling tank)
+ If you discharge a lot of hot water at once,
+the temperature of hot water inside the
+hot water tank drops and tepid water may
+come out. Wait a while until hot water
+becomes hotter and then use. (Only
+applicable to models with a hot water
+tank)
+
+
+
+ If you have discharged a lot of purified
+water (including Room Temp.) so that
+there is little purified water in the storage
+tank, purified water may not come put.
+Wait a while until water is filled inside
+the storage tank and then use. (Only
+applicable to models with a storage tank)
+
+
+
+ Install the product in a place with a flat
+and even surface.
+
+
+
+ Adjust the installation position to ensure
+there is enough space around the
+product (10 cm). 
+
+
+
+ Remove the article placed on top of the
+product.
+
+
+
+Cold water , hot water
+or ROOM TEMP. water
+does not come out.
+
+
+The product is
+noisy and generates
+abnormal sounds.
+
+No ice forms in
+the product. (Only
+applicable to models
+
+with ice function)
+
+
+
+ Put on the ice machine cover.
+
+
+ Use the product after 6 hours have
+passed since tap water and power were
+supplied.
+
+ Water bubbles may form in the draining
+process. It is safe for you to drink.
+
+Fine particles occur in
+the purified water.
+
+
+
+ If fine particles exist continuously after
+you receive water from the water purifier
+and several minutes have passed,
+cut off the tap water supply and power
+supply and contact LG Electronics service
+centre.
+
+
+This warranty card is valid only for products
+sold by LG Electronics in the Indian Market.
+
+THIS WARRANTY IS NOT TRANSFERABLE
+AND IS APPLICABLE TO THE ORIGINAL
+PURCHASER ONLY.
+FILL OUT THIS RECORD AND KEEP IT
+TOGETHER WITH YOUR
+PURCHASE DOCKET IN A SAFE PLACE.
+SHOULD YOU REQUIRE SERVICE UNDER
+THE TERMS OF THIS WARRANTY,
+PLEASE CONTACT US.
+
+
+
+Should your LG product fail due to a defect in material or
+workmanship under normal home use during the warranty period
+set forth below, the company will repair or replace the product upon
+receipt of proof of original retail purchase.
+This warranty is valid only for the original retail purchaser of the
+product and applicable only to a product sold in India by the
+companys authorized dealer.
+
+
+The LG Water Puriers comes with a 1 year warranty from the
+date of purchase. The 1 year warranty covers all functional parts
+(except consumables all inside lters, plastic parts), provided
+the warranty card bears the rubber stamp, date, and signature
+of our Authorized Dealer.
+If the original date of purchase cannot be veried from
+the proof of purchase, the warranty will begin 3 months
+after the manufacturing month, which shall be veried
+based on the serial no./barcode label on the product.
+
+
+LG Electronics India Pvt. Ltd. (LGEIL/the Company) offers you
+limited warranty for products sold within the territories
+of India and guarantees that the product is free from defects in
+material and workmanship, according to the following terms and
+conditions:
+Repairs under warranty shall be carried out by
+authorized service personnel only. The details of
+centralized help lines are provided in the overleaf.
+In case of repairs or replacement of any part of the
+unit, this warranty will thereafter continue and remain
+in force only for the unexpired period of the warranty.
+Replacement of parts will be solely at the discretion of
+LGEIL. In case the replacement of the entire unit is
+made, (subject to the sole discretion of LGEIL), the
+same model shall be provided as replacement; if such
+model has been phased out, the equivalent model as
+determined by LGEIL shall be provided as
+replacement.
+In case of repair, LGEIL shall endeavor to use new
+parts. If new parts are not available, however, then
+LGEIL will have every right to use refurbished parts.
+The warranty on replacement model / Refurbished part
+shall remain in force only for the unexpired period of
+the warranty based on original purchase.
+The company or its Authorized Service Center
+reserves the right to retain any part or component
+replaced at its discretion in case of a defect
+discovered in the equipment during the warranty
+period.
+The company offers 3 free visits for PM (Preventive
+Maintenance) in which complete Electrolysis
+Sterilization will be done & out-sediment Pre Filter
+Candle will be replaced at each visit.
+If any of the colored internal or external components is
+replaced, LGEIL is committed to ensuring that the
+shades match the original or other components. The
+replaced shades, patterns, or tints may vary from the
+customers unit due to continuous usage of the unit.
+Any matching component changed at the customers
+request other than the component that is actually
+needed will be charged.This warranty will automatically be terminated upon
+the expiration of the warranty period specied above,
+
+even if the LG product may not be in use at any time
+during the warranty period for any reason.
+8. In case of any unpredicted situation, and spares are not
+available, LGs prevailing depreciation policy (subject to
+the sole discretion of LGEIL, may be changed without prior
+notice) will be applied to the product as a solution.
+9. Only courts in the state of Delhi and places where LGEIL
+has a branch ofce shall have jurisdiction over the
+settlement of any and all claims and disputes arising
+during the warranty.
+
+Visiting charges of the service engineer for units installed
+beyond the municipal limits of the jurisdiction of the
+companys Authorized Service Center. All expenses
+incurred in collecting the units or parts thereof from the
+companys authorized service center as well as expenses
+incurred from deputizing service personnel/technicians for
+conveyance and other incidentals, etc., shall be borne by
+the customer. Local charges for transportation and
+handling charges may vary by location. Customers are
+advised to verify in advance. If the customer wishes to
+bring the unit on his/her own to an authorized service
+center, such shall be at his/her own risks & consequences.
+Reinstallation or uninstallation of product based on
+customer demand. Packing material, if used, will also be
+charged.
+Transportation cost in case customer is moving the
+product to another location.
+Damage resulting from operating the product in a corrosive
+atmosphere or contrary to the instructions outlined in the
+products owners manual.
+Replacement of all inside lters (Sediment, Pre carbon,
+Post Carbon, RO Membrane) are not covered by this
+warranty.
+ Damage to the product caused by accidents, pests and
+vermin, lightning, wind, re, oods, or acts of God.
+ Damage resulting from misuse, abuse, improper
+installation, repair, or maintenance. Improper repair
+includes use of parts other than those approved or
+specied by LGEIL.
+Damage or failure caused by unauthorized modication or
+alteration or use for purposes other than the intended
+purpose or any water leak in case the unit was not
+properly installed.
+Damage or failure caused by incorrect electrical current,
+voltage, or inadequate electrical services, commercial or
+industrial use, or use of spurious/fake accessories or
+components or cleaning products other than those
+approved by LGEIL.
+Damage caused by transportation and handling, including
+scratches, dents, chips, and/or other damage to the nish
+of your product, unless such damage is caused by a defect
+in materials or workmanship and reported within fteen (15)
+days of delivery (Call 1800-315-9999, 1800-180-9999)
+Damage or missing items of any display, open box,
+discounted or refurbished product.
+Free accessories provided external to the product.
+Damage to the product if the customer has the product
+repaired by an unauthorized dealer/person.
+Upon removal, tampering, or alteration of the serial
+number/identication labels on the machine or any of its
+components.

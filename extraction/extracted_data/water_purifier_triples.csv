@@ -1,0 +1,965 @@
+SENTENCE,TRIPLES
+The following safety guidelines are intended to prevent unforeseen risks or damage from unsafe or incorrect operation of the appliance.,"|-  {'subject': 'following safety guidelines', 'relation': 'prevent risks from', 'object': 'unsafe operation'}
+|-  {'subject': 'safety guidelines', 'relation': 'prevent', 'object': 'risks'}
+|-  {'subject': 'safety guidelines', 'relation': 'prevent damage from', 'object': 'operation'}
+|-  {'subject': 'following safety guidelines', 'relation': 'are', 'object': 'intended'}
+|-  {'subject': 'safety guidelines', 'relation': 'are', 'object': 'intended'}
+|-  {'subject': 'safety guidelines', 'relation': 'prevent damage from', 'object': 'unsafe operation'}
+|-  {'subject': 'safety guidelines', 'relation': 'prevent risks from', 'object': 'unsafe operation'}
+|-  {'subject': 'following safety guidelines', 'relation': 'prevent risks from', 'object': 'operation of appliance'}
+|-  {'subject': 'following safety guidelines', 'relation': 'prevent damage from', 'object': 'operation of appliance'}
+|-  {'subject': 'following safety guidelines', 'relation': 'prevent risks from', 'object': 'unsafe operation of appliance'}
+|-  {'subject': 'following safety guidelines', 'relation': 'prevent risks from', 'object': 'operation'}
+|-  {'subject': 'safety guidelines', 'relation': 'prevent', 'object': 'damage'}
+|-  {'subject': 'following safety guidelines', 'relation': 'prevent damage from', 'object': 'unsafe operation of appliance'}
+|-  {'subject': 'safety guidelines', 'relation': 'prevent damage from', 'object': 'unsafe operation of appliance'}
+|-  {'subject': 'safety guidelines', 'relation': 'prevent risks from', 'object': 'operation of appliance'}
+|-  {'subject': 'following safety guidelines', 'relation': 'prevent', 'object': 'damage'}
+|-  {'subject': 'following safety guidelines', 'relation': 'prevent damage from', 'object': 'operation'}
+|-  {'subject': 'following safety guidelines', 'relation': 'prevent', 'object': 'risks'}
+|-  {'subject': 'following safety guidelines', 'relation': 'prevent', 'object': 'unforeseen risks'}
+|-  {'subject': 'safety guidelines', 'relation': 'prevent', 'object': 'unforeseen risks'}
+|-  {'subject': 'following safety guidelines', 'relation': 'prevent damage from', 'object': 'unsafe operation'}
+|-  {'subject': 'safety guidelines', 'relation': 'prevent risks from', 'object': 'unsafe operation of appliance'}
+|-  {'subject': 'safety guidelines', 'relation': 'prevent damage from', 'object': 'operation of appliance'}
+|-  {'subject': 'safety guidelines', 'relation': 'prevent risks from', 'object': 'operation'}
+"
+The guidelines are separated into WARNING and CAUTION as described below.,"|-  {'subject': 'guidelines', 'relation': 'are separated', 'object': 'described below'}
+|-  {'subject': 'guidelines', 'relation': 'are separated into', 'object': 'WARNING'}
+|-  {'subject': 'guidelines', 'relation': 'are', 'object': 'separated'}
+|-  {'subject': 'guidelines', 'relation': 'are separated', 'object': 'described'}
+"
+This symbol is displayed to indicate matters and operations that can cause risk.,"|-  {'subject': 'symbol', 'relation': 'is', 'object': 'displayed'}
+|-  {'subject': 'symbol', 'relation': 'indicate', 'object': 'operations'}
+|-  {'subject': 'symbol', 'relation': 'indicate', 'object': 'matters'}
+"
+Read the part with this symbol carefully and follow the instructions in order to avoid risk.,"|-  {'subject': 'part', 'relation': 'follow', 'object': 'instructions'}
+"
+WARNING - This indicates that the failure to follow the instructions can cause serious injury or death.,
+CAUTION - This indicates that the failure to follow the instructions can cause minor injury or damage the product.,
+"To reduce the risk of explosion, fire, death, electric shock, injury or scalding to persons when using this product, follow basic precautions, including the following:   Keep ventilation openings, in the appliance enclosure or in the built-in structure, clear of obstruction.",
+"Do not use mechanical devices or other means to accelerate the defrosting process, other than those recommended by the manufacturer.",
+Do not damage the refrigerant circuit.,
+"Do not use electrical appliances inside the food storage compartments of the appliance, unless they are of the type recommended by the manufacturer.",
+The refrigerant and insulation blowing gas used in the appliance require special disposal procedures.,"|-  {'subject': 'insulation', 'relation': 'require', 'object': 'special disposal procedures'}
+|-  {'subject': 'refrigerant', 'relation': 'require', 'object': 'special disposal procedures'}
+|-  {'subject': 'refrigerant', 'relation': 'require', 'object': 'disposal procedures'}
+|-  {'subject': 'insulation', 'relation': 'require', 'object': 'disposal procedures'}
+"
+Consult with service agent or a similarly qualified person before disposing of them.,
+"This appliance contains a small amount of isobutane refrigerant (R600a), natural gas with high environmental compatibility, but it is also combustible.","|-  {'subject': 'isobutane refrigerant', 'relation': 'gas with', 'object': 'high environmental compatibility'}
+|-  {'subject': 'natural gas', 'relation': 'is with', 'object': 'high environmental compatibility'}
+"
+"When transporting and installing the appliance, care should be taken to ensure that no parts of the refrigerating circuit are damaged.","|-  {'subject': 'care', 'relation': 'transporting', 'object': 'appliance'}
+|-  {'subject': 'care', 'relation': 'should', 'object': 'should taken'}
+"
+Refrigerant squirting out of the pipes could ignite or cause an eye injury.,"|-  {'subject': 'Refrigerant', 'relation': 'squirting out of', 'object': 'pipes'}
+|-  {'subject': 'Refrigerant', 'relation': 'could ignite', 'object': 'eye injury'}
+"
+"If a leak is detected, avoid any naked flames or potential sources of ignition and air the room in which the appliance is standing for several minutes.","|-  {'subject': 'leak', 'relation': 'is', 'object': 'detected'}
+"
+The amount of refrigerant in your particular appliance is shown on the identification plate inside the appliance.,"|-  {'subject': 'amount', 'relation': 'is in', 'object': 'your particular appliance'}
+|-  {'subject': 'amount', 'relation': 'is', 'object': 'shown'}
+|-  {'subject': 'amount', 'relation': 'is shown on', 'object': 'identification plate'}
+|-  {'subject': 'amount', 'relation': 'is shown on', 'object': 'identification plate inside appliance'}
+"
+Never start up an appliance showing any signs of damage.,"|-  {'subject': 'showing', 'relation': 'signs of', 'object': 'damage'}
+"
+"If in doubt, consult your dealer.",
+"Only an authorized repair person from LG Electronics service centre should disassemble, repair, or modify the product.","|-  {'subject': 'authorized repair person', 'relation': 'modify', 'object': 'product'}
+|-  {'subject': 'repair person', 'relation': 'modify', 'object': 'product'}
+"
+Contact LG Electronics service centre if you move the product.,"|-  {'subject': 'you', 'relation': 'move', 'object': 'product'}
+"
+"Improper service may cause injury, electric shock or fire.","|-  {'subject': 'service', 'relation': 'may cause', 'object': 'injury'}
+|-  {'subject': 'Improper service', 'relation': 'may cause', 'object': 'electric shock'}
+|-  {'subject': 'Improper service', 'relation': 'may cause', 'object': 'fire'}
+|-  {'subject': 'Improper service', 'relation': 'may cause', 'object': 'injury'}
+|-  {'subject': 'Improper service', 'relation': 'may cause', 'object': 'shock'}
+|-  {'subject': 'service', 'relation': 'may cause', 'object': 'shock'}
+|-  {'subject': 'service', 'relation': 'may cause', 'object': 'electric shock'}
+|-  {'subject': 'service', 'relation': 'may cause', 'object': 'fire'}
+"
+"To reduce the risk of explosion, fire, death, electric shock, injury or scalding to persons when using this product, follow basic precautions, including the following:   Product installation should be done only by LG service technician.","|-  {'subject': 'Product installation', 'relation': 'should', 'object': 'should done by LG service technician'}
+|-  {'subject': 'Product installation', 'relation': 'should', 'object': 'should done'}
+|-  {'subject': 'Product installation', 'relation': 'should', 'object': 'should done only by LG service technician'}
+"
+Ground the product for safety.,
+"For more details on grounding, inquire at LG Electronics service centre.",
+"For counter-top installation, install the product on a solid and flat area.",
+"If the product is installed on an uneven floor, it can generate vibration and noise or cause misalignment of the product.","|-  {'subject': 'it', 'relation': 'can generate noise', 'object': 'installed'}
+|-  {'subject': 'it', 'relation': 'can generate vibration', 'object': 'installed on uneven floor'}
+|-  {'subject': 'it', 'relation': 'can generate', 'object': 'noise'}
+|-  {'subject': 'product', 'relation': 'is', 'object': 'installed'}
+|-  {'subject': 'it', 'relation': 'can generate noise', 'object': 'installed on uneven floor'}
+|-  {'subject': 'it', 'relation': 'cause', 'object': 'misalignment'}
+|-  {'subject': 'cause', 'relation': 'misalignment of', 'object': 'product'}
+|-  {'subject': 'it', 'relation': 'can generate', 'object': 'vibration'}
+|-  {'subject': 'it', 'relation': 'can generate vibration', 'object': 'installed'}
+|-  {'subject': 'it', 'relation': 'cause', 'object': 'misalignment of product'}
+|-  {'subject': 'product', 'relation': 'is installed on', 'object': 'floor'}
+|-  {'subject': 'product', 'relation': 'is installed on', 'object': 'uneven floor'}
+|-  {'subject': 'it', 'relation': 'can generate vibration', 'object': 'installed on floor'}
+|-  {'subject': 'it', 'relation': 'can generate noise', 'object': 'installed on floor'}
+"
+Do not install the product in a damp area and keep away from splashing rain or water.,"|-  {'subject': 'product', 'relation': 'keep away from', 'object': 'splashing rain'}
+|-  {'subject': 'product', 'relation': 'keep away from', 'object': 'rain'}
+"
+This appliance is equipped with a cord having an equipment-grounding conductor and grounding plug.,"|-  {'subject': 'equipment-grounding conductor', 'relation': 'grounding', 'object': 'plug'}
+|-  {'subject': 'appliance', 'relation': 'is', 'object': 'equipped'}
+|-  {'subject': 'appliance', 'relation': 'is equipped with', 'object': 'cord'}
+|-  {'subject': 'conductor', 'relation': 'grounding', 'object': 'plug'}
+"
+The plug must be plugged into an appropriate outlet that is properly installed and grounded in accordance with all local codes and ordinances.,"|-  {'subject': 'plug', 'relation': 'must', 'object': 'must plugged'}
+|-  {'subject': 'plug', 'relation': 'must', 'object': 'must plugged into appropriate outlet'}
+|-  {'subject': 'plug', 'relation': 'must', 'object': 'must plugged into outlet'}
+"
+Use only grounded extension socket outlets.,"|-  {'subject': 'Use', 'relation': 'grounded', 'object': 'extension socket outlets'}
+|-  {'subject': 'Use', 'relation': 'only grounded', 'object': 'extension socket outlets'}
+"
+Do not plug multiple products into multiple socket-outlets or extension cords.,
+Do not touch the power plug with wet hands.,
+Plug the power plug in the outlet tightly after removing the moisture and dust completely.,
+"When pulling out the power plug from an outlet, hold the power plug, not the cable.",
+"If the power cable or power plug is damaged or the hole of the outlet socket is loose, do not use the power plug and contact LG Electronics service centre.","|-  {'subject': 'power cable', 'relation': 'is', 'object': 'damaged'}
+"
+Unplug the power plug during thunder or lightening or when not in use for a long period of time.,
+Do not bend the power cable excessively or place a heavy object on top of it.,"|-  {'subject': 'power cable', 'relation': 'place', 'object': 'object'}
+|-  {'subject': 'power cable', 'relation': 'place', 'object': 'heavy object'}
+|-  {'subject': 'power cable', 'relation': 'place object on top of', 'object': 'it'}
+"
+Do not extend the length of the power cable or alter it.,
+Do not plug and unplug the power plug repeatedly.,
+"In case of flood, stop using the product and contact LG Electronics service centre.",
+"If there is a gas leakage (isobutane, propane, natural gas, etc.",
+"), do not touch the product or power plug and ventilate the area immediately.","|-  {'subject': 'power plug', 'relation': 'ventilate immediately', 'object': 'area'}
+|-  {'subject': 'power plug', 'relation': 'ventilate', 'object': 'area'}
+"
+"Sparks can cause explosion, fire or injury.","|-  {'subject': 'Sparks', 'relation': 'can cause', 'object': 'explosion'}
+|-  {'subject': 'Sparks', 'relation': 'can cause', 'object': 'injury'}
+|-  {'subject': 'Sparks', 'relation': 'can cause', 'object': 'fire'}
+"
+"This product uses an eco-friendly gas (isobutane, R600a) as the refrigerant.","|-  {'subject': 'product', 'relation': 'uses', 'object': 'eco-friendly gas'}
+|-  {'subject': 'product', 'relation': 'uses gas as', 'object': 'refrigerant'}
+|-  {'subject': 'product', 'relation': 'uses', 'object': 'gas'}
+"
+"Although it uses a small amount of the gas, it is still combustible gas.","|-  {'subject': 'it', 'relation': 'small amount of', 'object': 'gas'}
+|-  {'subject': 'it', 'relation': 'is', 'object': 'combustible gas'}
+|-  {'subject': 'it', 'relation': 'is', 'object': 'still combustible gas'}
+|-  {'subject': 'it', 'relation': 'uses', 'object': 'small amount'}
+|-  {'subject': 'it', 'relation': 'uses', 'object': 'amount'}
+|-  {'subject': 'it', 'relation': 'amount of', 'object': 'gas'}
+|-  {'subject': 'it', 'relation': 'uses', 'object': 'small amount of gas'}
+|-  {'subject': 'it', 'relation': 'is', 'object': 'still gas'}
+|-  {'subject': 'it', 'relation': 'is', 'object': 'gas'}
+|-  {'subject': 'it', 'relation': 'uses', 'object': 'amount of gas'}
+"
+"Do not clean the product with brushes, cloths or sponges with rough surfaces or which are made of metallic material.",
+"Immediately unplug the power plug and contact LG Electronics service centre if you detect any abnormal noise, odour or smoke.",
+Do not place hands or metallic objects below the product or heat releasing grill (exhaust pipe) on the back .,
+"There can be sharp edges in a disassembled set, special care to be taken while handling.","|-  {'subject': 'There can sharp edges', 'relation': 'is in', 'object': 'disassembled set'}
+"
+"Do not place heavy or fragile objects, liquids, combustible substances, or flammable objects (such as candles and lamps) on or inside the product.",
+"Do not use or store flammable or combustible substances (ether, benzene, alcohol, chemical, LPG, combustible spray, insecticide, air freshener, cosmetics, etc.",
+) near the product.,
+"If moisture penetrates inside the product, unplug the power plug and contact LG Electronics service centre.","|-  {'subject': 'moisture', 'relation': 'penetrates inside', 'object': 'product'}
+"
+"If water is leaking from the inside of the product or water has collected near the product, close the water supply valve, unplug the power plug, and contact LG Electronics service centre.","|-  {'subject': 'water supply valve', 'relation': 'unplug', 'object': 'power plug'}
+|-  {'subject': 'water', 'relation': 'is leaking from', 'object': 'inside'}
+|-  {'subject': 'water', 'relation': 'is leaking from', 'object': 'inside of product'}
+|-  {'subject': 'water', 'relation': 'has collected near', 'object': 'product'}
+"
+Do not move the product while the product is plugged in.,
+"To reduce the risk of minor injury to persons, malfunction, or damage to the product or property when using this product, follow basic precautions, including the following:   Connect the water pipe of the product to tap water only.","|-  {'subject': 'water pipe', 'relation': 'tap', 'object': 'water'}
+|-  {'subject': 'water pipe', 'relation': 'tap only', 'object': 'water'}
+"
+Water other than tap water can increase the risk of exposure to disease.,"|-  {'subject': 'Water other', 'relation': 'can increase', 'object': 'risk of exposure to disease'}
+|-  {'subject': 'Water', 'relation': 'can increase', 'object': 'risk'}
+|-  {'subject': 'Water other', 'relation': 'can increase', 'object': 'risk'}
+|-  {'subject': 'Water', 'relation': 'can increase', 'object': 'risk of exposure'}
+|-  {'subject': 'Water other', 'relation': 'can increase', 'object': 'risk of exposure'}
+|-  {'subject': 'Water', 'relation': 'can increase', 'object': 'risk of exposure to disease'}
+"
+"Hot water may spattered, so install the drain hose carefully to the drain.","|-  {'subject': 'Hot water', 'relation': 'so install drain hose carefully to', 'object': 'drain'}
+|-  {'subject': 'water', 'relation': 'so install', 'object': 'drain hose'}
+|-  {'subject': 'Hot water', 'relation': 'so install carefully', 'object': 'drain hose'}
+|-  {'subject': 'Hot water', 'relation': 'install drain hose to', 'object': 'drain'}
+|-  {'subject': 'water', 'relation': 'so install carefully', 'object': 'drain hose'}
+|-  {'subject': 'Hot water', 'relation': 'so install drain hose to', 'object': 'drain'}
+|-  {'subject': 'water', 'relation': 'install carefully', 'object': 'drain hose'}
+|-  {'subject': 'water', 'relation': 'install drain hose carefully to', 'object': 'drain'}
+|-  {'subject': 'Hot water', 'relation': 'install drain hose carefully to', 'object': 'drain'}
+|-  {'subject': 'Hot water', 'relation': 'install', 'object': 'drain hose'}
+|-  {'subject': 'water', 'relation': 'so install drain hose to', 'object': 'drain'}
+|-  {'subject': 'water', 'relation': 'so install drain hose carefully to', 'object': 'drain'}
+|-  {'subject': 'water', 'relation': 'install', 'object': 'drain hose'}
+|-  {'subject': 'Hot water', 'relation': 'install carefully', 'object': 'drain hose'}
+|-  {'subject': 'water', 'relation': 'install drain hose to', 'object': 'drain'}
+|-  {'subject': 'Hot water', 'relation': 'so install', 'object': 'drain hose'}
+"
+Replace the filter with a LG standard filter periodically according to the replacement period.,
+Older filters can multiply bacteria or change the taste of the water.,"|-  {'subject': 'Older filters', 'relation': 'change', 'object': 'taste'}
+|-  {'subject': 'filters', 'relation': 'can multiply', 'object': 'bacteria'}
+|-  {'subject': 'Older filters', 'relation': 'change', 'object': 'taste of water'}
+|-  {'subject': 'filters', 'relation': 'change', 'object': 'taste of water'}
+|-  {'subject': 'Older filters', 'relation': 'can multiply', 'object': 'bacteria'}
+|-  {'subject': 'filters', 'relation': 'change', 'object': 'taste'}
+|-  {'subject': 'change', 'relation': 'taste of', 'object': 'water'}
+"
+"The filter replacement period varies according to the usage, place of usage, season, and water quality.","|-  {'subject': 'usage', 'relation': 'place of', 'object': 'usage'}
+|-  {'subject': 'filter replacement period', 'relation': 'varies according to', 'object': 'place'}
+|-  {'subject': 'filter replacement period', 'relation': 'varies according to', 'object': 'usage'}
+|-  {'subject': 'filter replacement period', 'relation': 'varies according to', 'object': 'place of usage'}
+"
+"When using hot water, use a container with a handle.",
+"(Only applicable to a model with hot water function)  If the drip tray of the product protrudes from a desk or table, do not place any article on top of the drip tray.","|-  {'subject': 'model', 'relation': 'is with', 'object': 'hot water function'}
+"
+"Take care against the possibility of damaging the pipe (inlet, outlet) in order to prevent water leakage.",
+"When cleaning the product, unplug the power plug.",
+Do not allow anyone to hang from or climb on the product.,
+Be particularly cautious of children operating the product.,
+Keep a distance of over 10 cm between the back and sides of the product and the wall for smooth ventilation.,
+Not doing so can cause malfunctions.,
+Connect the product hoses as shown below.,"|-  {'subject': 'product', 'relation': 'hoses', 'object': 'shown'}
+|-  {'subject': 'product', 'relation': 'hoses', 'object': 'shown below'}
+"
+Connect the white (water supply) hose to tap water.,
+"When connecting the water hose, do not connect it to the hot water pipe.",
+Doing so may cause malfunctions.,"|-  {'subject': 'Doing', 'relation': 'may cause', 'object': 'malfunctions'}
+"
+Install the blue (drain) hose on the sink.,
+Check the pipe and hose connection for leaks.,
+Water can leak and cause electric shock or injury.,"|-  {'subject': 'Water', 'relation': 'cause', 'object': 'electric shock'}
+|-  {'subject': 'Water', 'relation': 'cause', 'object': 'shock'}
+|-  {'subject': 'Water', 'relation': 'cause', 'object': 'injury'}
+"
+"When transporting the product, do not tilt the product over 30 degrees.",
+Doing so can cause malfunctions.,"|-  {'subject': 'Doing', 'relation': 'can cause', 'object': 'malfunctions'}
+"
+Install the product in an indoor place with a surrounding temperature of over 5 C and less than 43 C.,"|-  {'subject': 'indoor place', 'relation': 'is with', 'object': 'surrounding temperature of over 5 C'}
+"
+Not doing so can cause malfunctions.,
+"Avoid installing the water purifier in a place with an uneven ground, a large amount of moisture, direct sunlight, dust and direct water splashing.","|-  {'subject': 'uneven ground', 'relation': 'amount of', 'object': 'moisture'}
+|-  {'subject': 'place', 'relation': 'is with', 'object': 'uneven ground'}
+"
+blue hose    Connect the power plug to an appropriate socket.,"|-  {'subject': 'blue hose', 'relation': 'Connect', 'object': 'power plug'}
+|-  {'subject': 'hose', 'relation': 'Connect power plug to', 'object': 'socket'}
+|-  {'subject': 'blue hose', 'relation': 'Connect power plug to', 'object': 'socket'}
+|-  {'subject': 'hose', 'relation': 'Connect', 'object': 'power plug'}
+|-  {'subject': 'hose', 'relation': 'Connect power plug to', 'object': 'appropriate socket'}
+|-  {'subject': 'blue hose', 'relation': 'Connect power plug to', 'object': 'appropriate socket'}
+"
+Open the water supply valve.,
+"After tank is full, discharge the water for first time.","|-  {'subject': 'tank', 'relation': 'is', 'object': 'full'}
+"
+"(approximately time taken to fill the tank to fullest is 1hour, depending on water pressure, temperature etc.","|-  {'subject': 'taken', 'relation': 'is', 'object': '1hour'}
+"
+)   Notes for Operation  Open the water supply valve.,"|-  {'subject': 'Notes', 'relation': 'Open', 'object': 'water supply valve'}
+"
+The water purifier operates normally only when water is supplied properly.,"|-  {'subject': 'water', 'relation': 'is', 'object': 'only when supplied properly'}
+|-  {'subject': 'water', 'relation': 'is', 'object': 'only when supplied'}
+|-  {'subject': 'water', 'relation': 'is', 'object': 'when supplied properly'}
+|-  {'subject': 'water', 'relation': 'is', 'object': 'supplied properly'}
+|-  {'subject': 'water', 'relation': 'is', 'object': 'supplied'}
+|-  {'subject': 'water', 'relation': 'is', 'object': 'when supplied'}
+"
+"When the hot water and cold water temperature icons are turned off, check if the power supply has been suspended due to power failure or other  reasons.","|-  {'subject': 'power supply', 'relation': 'has', 'object': 'has suspended'}
+"
+It is very important to replace the filter periodically in order to drink clean water.,"|-  {'subject': 'It', 'relation': 'is', 'object': 'very important'}
+|-  {'subject': 'It', 'relation': 'is', 'object': 'important'}
+|-  {'subject': 'It', 'relation': 'replace periodically', 'object': 'filter'}
+|-  {'subject': 'It', 'relation': 'replace', 'object': 'filter'}
+"
+"When using an expired filter, the performance of water filtration system can deteriorate.","|-  {'subject': 'performance', 'relation': 'using', 'object': 'expired filter'}
+|-  {'subject': 'performance', 'relation': 'using', 'object': 'filter'}
+"
+Always abide by the filter replacement period.,
+"(For WW1* Series)  If the product has not been#used for a long period of time, discharge cold water , ROOM TEMP.",
+", and hot water # for 10 minutes each, and then use.",
+Old water can multiply bacteria or change the water taste.,"|-  {'subject': 'Old water', 'relation': 'can multiply', 'object': 'bacteria'}
+|-  {'subject': 'water', 'relation': 'change', 'object': 'water taste'}
+|-  {'subject': 'water', 'relation': 'can multiply', 'object': 'bacteria'}
+|-  {'subject': 'Old water', 'relation': 'change', 'object': 'water taste'}
+"
+Do not use purified water for replacing water in the humidifier or fishbowl.,
+Leaving purified water as it is for a long period of time can multiply bacteria.,"|-  {'subject': 'it', 'relation': 'is for', 'object': 'long period of time'}
+|-  {'subject': 'it', 'relation': 'is', 'object': 'long'}
+|-  {'subject': 'bacteria', 'relation': 'Leaving', 'object': 'purified water'}
+|-  {'subject': 'bacteria', 'relation': 'Leaving', 'object': 'water'}
+|-  {'subject': 'it', 'relation': 'is for', 'object': 'long period'}
+|-  {'subject': 'it', 'relation': 'is for', 'object': 'period'}
+|-  {'subject': 'bacteria', 'relation': 'Leaving water for', 'object': 'period'}
+|-  {'subject': 'bacteria', 'relation': 'Leaving water for', 'object': 'long period of time'}
+|-  {'subject': 'it', 'relation': 'is for', 'object': 'period of time'}
+|-  {'subject': 'bacteria', 'relation': 'Leaving water for', 'object': 'period of time'}
+|-  {'subject': 'bacteria', 'relation': 'Leaving water for', 'object': 'long period'}
+"
+Use the product only after closing the product cover completely.,
+"Otherwise, insects or other foreign substances may get in.",
+Note  Water level indicator   The reverse osmosis contains a replaceable treatment component critical for the effective reduction of total dissolved solids and that product water shall be tested periodically to verify that the system is performing properly.,"|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'treatment component critical for reduction of dissolved solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'treatment component critical for effective reduction'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'treatment component critical for reduction of total solids'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for effective reduction of dissolved solids'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'treatment component critical for reduction of total solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'treatment component critical for reduction of dissolved solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'treatment component critical for effective reduction of dissolved solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for reduction of solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'treatment component critical for reduction'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for effective reduction of solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'treatment component critical for reduction'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'treatment component critical for effective reduction of total dissolved solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for effective reduction of dissolved solids'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'treatment component critical'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for reduction'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'treatment component critical for effective reduction of solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for reduction of total solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for effective reduction of total dissolved solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'replaceable treatment component'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for reduction of dissolved solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'treatment component critical for reduction of solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'treatment component critical for effective reduction of total solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for effective reduction of total solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'treatment component critical for effective reduction of solids'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'treatment component critical for effective reduction of dissolved solids'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for reduction of total dissolved solids'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'treatment component'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'treatment component critical for reduction of total dissolved solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for effective reduction'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for reduction of total solids'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for effective reduction of total solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'treatment component critical for effective reduction of total dissolved solids'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for reduction of dissolved solids'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'treatment component critical for effective reduction'}
+|-  {'subject': 'product water', 'relation': 'shall', 'object': 'shall tested'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for reduction'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for reduction of total dissolved solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'treatment component critical'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for effective reduction'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'treatment component'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'treatment component critical for effective reduction of total solids'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for effective reduction of total dissolved solids'}
+|-  {'subject': 'product water', 'relation': 'shall', 'object': 'shall tested periodically'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for effective reduction of solids'}
+|-  {'subject': 'reverse osmosis', 'relation': 'contains', 'object': 'treatment component critical for reduction of total dissolved solids'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'treatment component critical for reduction of solids'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'replaceable treatment component critical for reduction of solids'}
+|-  {'subject': 'osmosis', 'relation': 'contains', 'object': 'replaceable treatment component'}
+"
+The water level of the storage tank is displayed in 3 levels.,"|-  {'subject': 'water level', 'relation': 'is displayed in', 'object': '3 levels'}
+|-  {'subject': 'water level', 'relation': 'is', 'object': 'displayed'}
+"
+"Do not use with water that is microbiologically unsafe or of unknown quality, without adequate disinfection before or after the system.",
+"The icon is divided into 3 levels according to the water level, and as more indication lamps turn on, the water level becomes higher.","|-  {'subject': 'icon', 'relation': 'is divided into', 'object': '3 levels'}
+|-  {'subject': 'icon', 'relation': 'is', 'object': 'divided'}
+|-  {'subject': 'water level', 'relation': 'becomes', 'object': 'higher'}
+|-  {'subject': 'icon', 'relation': 'is divided according to', 'object': 'water level'}
+"
+"However, the water level cannot be adjusted discretionally.",
+"Suggestion for energy saving  If the product will not be used for a long period of time, unplug the power plug and drain the water inside the water filtration system completely.","|-  {'subject': 'Suggestion', 'relation': 'drain water completely inside', 'object': 'water filtration system'}
+|-  {'subject': 'Suggestion', 'relation': 'drain', 'object': 'water'}
+|-  {'subject': 'Suggestion', 'relation': 'drain water inside', 'object': 'water filtration system'}
+|-  {'subject': 'Suggestion', 'relation': 'drain completely', 'object': 'water'}
+"
+"In case the hot water or cold water function will not be used, turn the hot water or cold water function off.",
+Purified water is sterilized by the UV LED.,"|-  {'subject': 'water', 'relation': 'is sterilized by', 'object': 'UV LED'}
+|-  {'subject': 'water', 'relation': 'is sterilized by', 'object': 'UV'}
+|-  {'subject': 'Purified water', 'relation': 'is sterilized by', 'object': 'UV'}
+|-  {'subject': 'Purified water', 'relation': 'is sterilized by', 'object': 'UV LED'}
+|-  {'subject': 'Purified water', 'relation': 'is', 'object': 'sterilized'}
+|-  {'subject': 'water', 'relation': 'is', 'object': 'sterilized'}
+"
+Blue color indicates that UV sterilization is ON & White color indicates that UV sterilization is OFF.,"|-  {'subject': 'UV sterilization', 'relation': 'is', 'object': 'OFF'}
+|-  {'subject': 'UV sterilization', 'relation': 'is', 'object': 'ON indicates'}
+|-  {'subject': 'UV sterilization', 'relation': 'is', 'object': 'ON'}
+"
+"(When tank cover is open, UV LED will be automatically turned OFF for your safety.","|-  {'subject': 'tank cover', 'relation': 'is', 'object': 'open'}
+|-  {'subject': 'tank cover', 'relation': 'is', 'object': 'When open'}
+"
+")    When you press the touch lever, purified water will come out.","|-  {'subject': 'you', 'relation': 'press', 'object': 'touch lever'}
+"
+"If you wish to discharge continuously, lift the touch lever upward.","|-  {'subject': 'you', 'relation': 'wish', 'object': 'discharge'}
+|-  {'subject': 'you', 'relation': 'wish', 'object': 'discharge continuously'}
+"
+The UV LED operates in any of the following 2 cases.,"|-  {'subject': 'UV', 'relation': 'LED', 'object': 'operates in any of following 2 cases'}
+|-  {'subject': 'UV', 'relation': 'LED', 'object': 'operates in any of 2 cases'}
+|-  {'subject': 'UV', 'relation': 'LED', 'object': 'operates in any'}
+|-  {'subject': 'UV', 'relation': 'LED', 'object': 'operates'}
+"
+It operates for 75 minutes after every 6 hours.,"|-  {'subject': 'It', 'relation': 'operates after', 'object': '6 hours'}
+"
+It operates for 75 minutes after approximately 2 seconds when power is turned on following a power failure.,"|-  {'subject': 'power', 'relation': 'is turned on following', 'object': 'power failure'}
+|-  {'subject': 'It', 'relation': 'operates for', 'object': '75 minutes'}
+|-  {'subject': 'It', 'relation': 'operates after', 'object': 'approximately 2 seconds'}
+"
+"When the color of indicator changes from blue to amber, this indicates that it is time for preventive maintenance service.","|-  {'subject': 'it', 'relation': 'is', 'object': 'time'}
+|-  {'subject': 'it', 'relation': 'is time for', 'object': 'preventive maintenance service'}
+|-  {'subject': 'it', 'relation': 'is time for', 'object': 'maintenance service'}
+"
+Please call LG customer care for service.,
+Open the valve.,
+"You can rinse fruits and vegetables, wash dishes and brush your teeth.","|-  {'subject': 'You', 'relation': 'can rinse', 'object': 'fruits'}
+|-  {'subject': 'You', 'relation': 'brush', 'object': 'your teeth'}
+|-  {'subject': 'You', 'relation': 'can rinse', 'object': 'vegetables'}
+"
+The function discharges water while the valve is opened.,"|-  {'subject': 'valve', 'relation': 'is', 'object': 'opened'}
+"
+Do not use this water for drinking and cooking.,
+"Separate the top cover by lifting it upward, and then unlock the storage tank cover.",
+"Caution : Handle with care, sharp edges may cause injury.","|-  {'subject': 'sharp edges', 'relation': 'Handle with', 'object': 'care'}
+|-  {'subject': 'edges', 'relation': 'Handle with', 'object': 'care'}
+"
+Drain water inside the storage tank completely using the drain hose and the water outlet.,
+"However, do not discard drained water.",
+"Caution : Do not put pressure or weight on tank cover, it may cause damage or injury.","|-  {'subject': 'it', 'relation': 'may cause', 'object': 'damage'}
+|-  {'subject': 'it', 'relation': 'may cause', 'object': 'injury'}
+"
+Wipe the surface of the storage tank with a soft clean cloth.,
+Unplug the power plug.,
+Rinse the storage tank with the drained purified water and drain the water completely.,"|-  {'subject': 'storage tank', 'relation': 'drain completely', 'object': 'water'}
+|-  {'subject': 'storage tank', 'relation': 'drain', 'object': 'water'}
+"
+"Caution : Take care of water spattering, it may cause electric shock.","|-  {'subject': 'it', 'relation': 'may cause', 'object': 'shock'}
+|-  {'subject': 'it', 'relation': 'may cause', 'object': 'electric shock'}
+"
+Insert and lock the storage tank cover.,
+Separate the drip grid by pulling it upwards.,
+"Caution : Handle with care, sharp edges may cause injury.","|-  {'subject': 'sharp edges', 'relation': 'Handle with', 'object': 'care'}
+|-  {'subject': 'edges', 'relation': 'Handle with', 'object': 'care'}
+"
+"Close the top cover, plug in the power cord and open the water supply valve.","|-  {'subject': 'plug', 'relation': 'is in', 'object': 'power cord'}
+"
+Some time is necessary to fill water in the tank.,"|-  {'subject': 'time', 'relation': 'fill', 'object': 'water'}
+|-  {'subject': 'time', 'relation': 'is', 'object': 'necessary'}
+|-  {'subject': 'time', 'relation': 'fill water in', 'object': 'tank'}
+"
+"Wait approximately 1 hour, and then press the touch lever and check if water comes out.",
+"However, the time to fill water may vary according to the water pressure.",
+Unplug the power plug when cleaning the storage tank.,
+Do not clean the tank using tap water.,
+Separate the drip tray by pulling it forward.,
+Clean it with water.,
+Install the drip tray on the product.,
+"Place the drip grid on the drip tray, adhere it to the front side of the product closely, and gently push it to install.","|-  {'subject': 'drip grid', 'relation': 'adhere closely to', 'object': 'side of product'}
+|-  {'subject': 'drip grid', 'relation': 'gently push', 'object': 'it'}
+|-  {'subject': 'drip grid', 'relation': 'adhere closely to', 'object': 'front side of product'}
+|-  {'subject': 'drip grid', 'relation': 'adhere to', 'object': 'front side'}
+|-  {'subject': 'drip grid', 'relation': 'push', 'object': 'it'}
+|-  {'subject': 'drip grid', 'relation': 'adhere to', 'object': 'side of product'}
+|-  {'subject': 'drip grid', 'relation': 'adhere closely', 'object': 'it'}
+|-  {'subject': 'drip grid', 'relation': 'adhere to', 'object': 'side'}
+|-  {'subject': 'drip grid', 'relation': 'adhere closely to', 'object': 'side'}
+|-  {'subject': 'drip grid', 'relation': 'adhere', 'object': 'it'}
+|-  {'subject': 'drip grid', 'relation': 'adhere closely to', 'object': 'front side'}
+|-  {'subject': 'drip grid', 'relation': 'adhere to', 'object': 'front side of product'}
+"
+Wipe the surface of the drip tray with a soft clean cloth.,
+Do not use chemical or detergent for cleaning the storage tank.,
+"Chemical or detergent will not be washed away completely, it can be harmful to the human body.",
+Clean the water outlet periodically using a soft clean brush.,"|-  {'subject': 'Clean water outlet', 'relation': 'using', 'object': 'soft brush'}
+|-  {'subject': 'water outlet', 'relation': 'using', 'object': 'soft brush'}
+|-  {'subject': 'water outlet', 'relation': 'using', 'object': 'brush'}
+|-  {'subject': 'water outlet', 'relation': 'periodically using', 'object': 'clean brush'}
+|-  {'subject': 'Clean water outlet', 'relation': 'using', 'object': 'soft clean brush'}
+|-  {'subject': 'water outlet', 'relation': 'periodically using', 'object': 'soft clean brush'}
+|-  {'subject': 'Clean water outlet', 'relation': 'using', 'object': 'brush'}
+|-  {'subject': 'Clean water outlet', 'relation': 'periodically using', 'object': 'brush'}
+|-  {'subject': 'Clean water outlet', 'relation': 'periodically using', 'object': 'clean brush'}
+|-  {'subject': 'water outlet', 'relation': 'using', 'object': 'clean brush'}
+|-  {'subject': 'water outlet', 'relation': 'periodically using', 'object': 'brush'}
+|-  {'subject': 'Clean water outlet', 'relation': 'periodically using', 'object': 'soft clean brush'}
+|-  {'subject': 'water outlet', 'relation': 'periodically using', 'object': 'soft brush'}
+|-  {'subject': 'water outlet', 'relation': 'using', 'object': 'soft clean brush'}
+|-  {'subject': 'Clean water outlet', 'relation': 'using', 'object': 'clean brush'}
+|-  {'subject': 'Clean water outlet', 'relation': 'periodically using', 'object': 'soft brush'}
+"
+Fur or foreign substances can accumulate in the water outlet.,
+Caution should be taken.,"|-  {'subject': 'Caution', 'relation': 'should', 'object': 'should taken'}
+"
+"If a large amount of water is in the drip tray, water can spill out when separating the drip tray.","|-  {'subject': 'water', 'relation': 'separating', 'object': 'drip tray'}
+|-  {'subject': 'water', 'relation': 'amount of is', 'object': 'drip tray'}
+|-  {'subject': 'water', 'relation': 'can spill out in', 'object': 'drip tray'}
+|-  {'subject': 'amount', 'relation': 'is in', 'object': 'drip tray'}
+|-  {'subject': 'large amount', 'relation': 'is in', 'object': 'drip tray'}
+|-  {'subject': 'water', 'relation': 'large amount of is', 'object': 'drip tray'}
+"
+"Removes big particles, rust stains, mud etc.",
+Removes unseen dregs and other contamination.,
+"Removes invisible fine particles, residual chlorine, VOC(Volatile Organic Compounds) etc.",
+"Removes dissolved impurities and removes heavy metals, bacteria, viruses, VOC etc.","|-  {'subject': 'dissolved impurities', 'relation': 'removes', 'object': 'heavy metals'}
+|-  {'subject': 'impurities', 'relation': 'removes', 'object': 'metals'}
+|-  {'subject': 'dissolved impurities', 'relation': 'removes', 'object': 'metals'}
+|-  {'subject': 'impurities', 'relation': 'removes', 'object': 'heavy metals'}
+"
+from water.,
+Do not use water drained from the product for drinking or cooking.,
+Removes odour & improves taste of water.,"|-  {'subject': 'odour', 'relation': 'improves', 'object': 'taste'}
+|-  {'subject': 'odour', 'relation': 'improves', 'object': 'taste of water'}
+"
+"Use the water instead for cleaning the bathroom and house, doing the laundry or for other various purposes.",
+Activated carbon inside the filter may sometimes flow in the storage tank.,"|-  {'subject': 'carbon', 'relation': 'may flow in', 'object': 'storage tank'}
+|-  {'subject': 'carbon', 'relation': 'may sometimes flow in', 'object': 'storage tank'}
+|-  {'subject': 'Activated carbon', 'relation': 'may sometimes flow in', 'object': 'storage tank'}
+|-  {'subject': 'Activated carbon', 'relation': 'may flow in', 'object': 'storage tank'}
+"
+"If so, a fine powder of activated carbon used in the post-carbon filter has come out, and it is harmless to the human body.","|-  {'subject': 'it', 'relation': 'is harmless to', 'object': 'body'}
+|-  {'subject': 'it', 'relation': 'is', 'object': 'harmless'}
+|-  {'subject': 'it', 'relation': 'is harmless to', 'object': 'human body'}
+|-  {'subject': 'powder', 'relation': 'has come out', 'object': 'so'}
+|-  {'subject': 'fine powder', 'relation': 'has come out', 'object': 'so'}
+"
+"If found, drain out the water from tank completely.",
+Add minerals in the purified water without mixing impure water.,"|-  {'subject': 'minerals', 'relation': 'is in', 'object': 'purified water'}
+"
+The filter replacement period refers to the period that the purification performance of the filter is maintained.,"|-  {'subject': 'filter replacement period', 'relation': 'refers to', 'object': 'period'}
+|-  {'subject': 'purification performance', 'relation': 'is', 'object': 'maintained'}
+"
+"And, the replacement period is lesser in the case of a place with poor water quality or a large purification amount.","|-  {'subject': 'replacement period', 'relation': 'is lesser in', 'object': 'case of place with poor water quality'}
+|-  {'subject': 'replacement period', 'relation': 'is lesser in', 'object': 'case of place'}
+|-  {'subject': 'replacement period', 'relation': 'is lesser in', 'object': 'case'}
+|-  {'subject': 'replacement period', 'relation': 'is', 'object': 'lesser'}
+|-  {'subject': 'replacement period', 'relation': 'is lesser in', 'object': 'case of place with water quality'}
+|-  {'subject': 'place', 'relation': 'is with', 'object': 'poor water quality'}
+"
+"Removes big particles, rust stains, mud etc.",
+Removes only bacteria and fine particle substance.,
+"If you wish to replace the filter, contact LG Electronics service centre.","|-  {'subject': 'you', 'relation': 'replace', 'object': 'filter'}
+"
+"After replacing the filter, check if there is a leak from the product.",
+"After installation, when tank is full discard the water for first time.","|-  {'subject': 'tank', 'relation': 'is', 'object': 'when full'}
+|-  {'subject': 'tank', 'relation': 'is', 'object': 'full'}
+"
+"(approximately time taken to fill the tank to fullest is 1hour, depending on water pressure, temp etc.","|-  {'subject': 'taken', 'relation': 'is', 'object': '1hour'}
+"
+)  Around 25% of supplied water (based on the tap water pressure of 3.,
+5 kgf/cm2 at the water temperature of 25 C) will be purified and the remainder will be drained.,"|-  {'subject': 'remainder', 'relation': 'will', 'object': 'will drained'}
+"
+Water does not come out.,
+The taste of water may change as it ages due to bacterial multiplication.,"|-  {'subject': 'taste', 'relation': 'may change', 'object': 'it ages due'}
+|-  {'subject': 'taste', 'relation': 'may change', 'object': 'it ages'}
+|-  {'subject': 'taste', 'relation': 'may change', 'object': 'it ages due to bacterial multiplication'}
+|-  {'subject': 'taste', 'relation': 'may change', 'object': 'it ages due to multiplication'}
+"
+"Use the water purifier after discharging cold water , hot water and ROOM TEMP.",
+for 10 minutes each.,
+"Has it been a long time since you installed and replaced the filter?   If an expired filter is used, the purification performance may decline.","|-  {'subject': 'it', 'relation': 'been', 'object': 'long'}
+|-  {'subject': 'you', 'relation': 'installed', 'object': 'filter'}
+|-  {'subject': 'filter', 'relation': 'is', 'object': 'used'}
+|-  {'subject': 'purification performance', 'relation': 'may decline', 'object': 'used'}
+|-  {'subject': 'expired filter', 'relation': 'is', 'object': 'used'}
+"
+It is recommended to replace the filter according to the filter replacement period.,"|-  {'subject': 'It', 'relation': 'is', 'object': 'recommended'}
+|-  {'subject': 'It', 'relation': 'replace filter according to', 'object': 'filter replacement period'}
+|-  {'subject': 'It', 'relation': 'replace', 'object': 'filter'}
+"
+Request for filter replacement.,
+Open the water supply valve.,
+Did you miss the filter replacement period?   Request filter replacement.,"|-  {'subject': 'you', 'relation': 'Did miss', 'object': 'filter replacement period'}
+"
+Open the water supply valve.,
+Is the power plug unplugged from the outlet?   Plug the power plug in the outlet correctly.,"|-  {'subject': 'power plug', 'relation': 'Is unplugged from', 'object': 'outlet'}
+"
+Does water not come out when  you press the discharge button?   Contact LG Electronics service centre.,
+"Cold water , hot water or ROOM TEMP.",
+water does not come out.,
+Press the power button on the control panel to turn it on.,
+Have you left the water purifier for a long period of time without using it? Water tastes strange.,"|-  {'subject': 'you', 'relation': 'Have left', 'object': 'water purifier'}
+|-  {'subject': 'you', 'relation': 'using', 'object': 'it'}
+|-  {'subject': 'you', 'relation': 'Have left water purifier for', 'object': 'long period of time'}
+|-  {'subject': 'you', 'relation': 'Have left water purifier for', 'object': 'period of time'}
+|-  {'subject': 'you', 'relation': 'Have left water purifier for', 'object': 'long period'}
+|-  {'subject': 'you', 'relation': 'Have left water purifier for', 'object': 'period'}
+"
+The purification amount has reduced suddenly.,
+"If you have discharged a lot of cold water so that there is little water in the storage tank, cold water may not come out.",
+Wait a while until water is filled inside the storage tank and then use.,
+"(Only applicable to models with a storage tank)  If you discharge a large amount of cold water at once, the temperature of cold water inside the cold water tank will rise.","|-  {'subject': 'you', 'relation': 'discharge', 'object': 'large amount of cold water'}
+|-  {'subject': 'you', 'relation': 'large amount of', 'object': 'cold water'}
+|-  {'subject': 'you', 'relation': 'amount of', 'object': 'cold water'}
+|-  {'subject': 'you', 'relation': 'discharge', 'object': 'large amount'}
+|-  {'subject': 'you', 'relation': 'discharge', 'object': 'amount of cold water'}
+|-  {'subject': 'you', 'relation': 'discharge', 'object': 'amount'}
+|-  {'subject': 'models', 'relation': 'is with', 'object': 'storage tank'}
+|-  {'subject': 'you', 'relation': 'amount of', 'object': 'water'}
+|-  {'subject': 'you', 'relation': 'large amount of', 'object': 'water'}
+|-  {'subject': 'you', 'relation': 'discharge', 'object': 'large amount of water'}
+|-  {'subject': 'you', 'relation': 'discharge', 'object': 'amount of water'}
+|-  {'subject': 'you', 'relation': 'discharge amount at', 'object': 'once'}
+"
+Wait a while until cold water becomes colder and then use.,
+"(Only applicable to models with a cooling tank)  If you discharge a lot of hot water at once, the temperature of hot water inside the hot water tank drops and tepid water may come out.","|-  {'subject': 'models', 'relation': 'is with', 'object': 'cooling tank'}
+"
+Wait a while until hot water becomes hotter and then use.,
+(Only applicable to models with a hot water tank)     If you have discharged a lot of purified water (including Room Temp.,"|-  {'subject': 'models', 'relation': 'is with', 'object': 'hot water tank'}
+"
+") so that there is little purified water in the storage tank, purified water may not come put.",
+Wait a while until water is filled inside the storage tank and then use.,
+(Only applicable to models with a storage tank)     Install the product in a place with a flat and even surface.,"|-  {'subject': 'place', 'relation': 'is with', 'object': 'flat surface'}
+|-  {'subject': 'models', 'relation': 'is with', 'object': 'storage tank'}
+"
+Adjust the installation position to ensure there is enough space around the product (10 cm).,
+Remove the article placed on top of the product.,
+"Cold water , hot water or ROOM TEMP.",
+water does not come out.,
+The product is noisy and generates abnormal sounds.,"|-  {'subject': 'product', 'relation': 'generates', 'object': 'sounds'}
+|-  {'subject': 'product', 'relation': 'generates', 'object': 'abnormal sounds'}
+|-  {'subject': 'product', 'relation': 'is', 'object': 'noisy'}
+"
+No ice forms in the product.,
+(Only applicable to models  with ice function)     Put on the ice machine cover.,
+Use the product after 6 hours have passed since tap water and power were supplied.,"|-  {'subject': 'tap water', 'relation': 'were', 'object': 'supplied'}
+"
+Water bubbles may form in the draining process.,"|-  {'subject': 'Water bubbles', 'relation': 'may form in', 'object': 'process'}
+|-  {'subject': 'Water bubbles', 'relation': 'may form in', 'object': 'draining process'}
+"
+It is safe for you to drink.,"|-  {'subject': 'It', 'relation': 'is safe', 'object': 'you drink'}
+|-  {'subject': 'It', 'relation': 'is', 'object': 'safe'}
+"
+Fine particles occur in the purified water.,"|-  {'subject': 'particles', 'relation': 'occur in', 'object': 'purified water'}
+|-  {'subject': 'particles', 'relation': 'occur in', 'object': 'water'}
+|-  {'subject': 'Fine particles', 'relation': 'occur in', 'object': 'water'}
+|-  {'subject': 'Fine particles', 'relation': 'occur in', 'object': 'purified water'}
+"
+"If fine particles exist continuously after you receive water from the water purifier and several minutes have passed, cut off the tap water supply and power supply and contact LG Electronics service centre.","|-  {'subject': 'you', 'relation': 'receive water from', 'object': 'water purifier'}
+|-  {'subject': 'you', 'relation': 'receive', 'object': 'water'}
+"
+This warranty card is valid only for products sold by LG Electronics in the Indian Market.,"|-  {'subject': 'warranty card', 'relation': 'is valid for', 'object': 'products'}
+|-  {'subject': 'warranty card', 'relation': 'is valid for', 'object': 'only products sold by LG Electronics in Indian Market'}
+|-  {'subject': 'warranty card', 'relation': 'is valid for', 'object': 'products sold in Indian Market'}
+|-  {'subject': 'warranty card', 'relation': 'is valid for', 'object': 'products sold by LG Electronics'}
+|-  {'subject': 'warranty card', 'relation': 'is valid for', 'object': 'only products'}
+|-  {'subject': 'warranty card', 'relation': 'is valid for', 'object': 'only products sold in Indian Market'}
+|-  {'subject': 'warranty card', 'relation': 'is valid for', 'object': 'products sold by LG Electronics in Indian Market'}
+|-  {'subject': 'warranty card', 'relation': 'is valid for', 'object': 'products sold'}
+|-  {'subject': 'warranty card', 'relation': 'is', 'object': 'valid'}
+|-  {'subject': 'warranty card', 'relation': 'is valid for', 'object': 'only products sold'}
+|-  {'subject': 'warranty card', 'relation': 'is valid for', 'object': 'only products sold by LG Electronics'}
+"
+THIS WARRANTY IS NOT TRANSFERABLE AND IS APPLICABLE TO THE ORIGINAL PURCHASER ONLY.,"|-  {'subject': 'WARRANTY', 'relation': 'IS', 'object': 'NOT TRANSFERABLE'}
+|-  {'subject': 'WARRANTY', 'relation': 'IS', 'object': 'IS APPLICABLE TO ORIGINAL PURCHASER ONLY'}
+|-  {'subject': 'WARRANTY', 'relation': 'IS', 'object': 'IS APPLICABLE'}
+|-  {'subject': 'WARRANTY', 'relation': 'IS', 'object': 'IS APPLICABLE TO PURCHASER ONLY'}
+"
+FILL OUT THIS RECORD AND KEEP IT TOGETHER WITH YOUR PURCHASE DOCKET IN A SAFE PLACE.,"|-  {'subject': 'OUT RECORD', 'relation': 'KEEP', 'object': 'IT'}
+|-  {'subject': 'YOUR PURCHASE DOCKET', 'relation': 'is IN', 'object': 'SAFE PLACE'}
+"
+"SHOULD YOU REQUIRE SERVICE UNDER THE TERMS OF THIS WARRANTY, PLEASE CONTACT US.","|-  {'subject': 'YOU', 'relation': 'SERVICE UNDER', 'object': 'TERMS'}
+"
+"Should your LG product fail due to a defect in material or workmanship under normal home use during the warranty period set forth below, the company will repair or replace the product upon receipt of proof of original retail purchase.","|-  {'subject': 'company', 'relation': 'will repair product upon', 'object': 'receipt of proof of original purchase'}
+|-  {'subject': 'defect', 'relation': 'is in', 'object': 'material'}
+|-  {'subject': 'company', 'relation': 'will repair product upon', 'object': 'receipt'}
+|-  {'subject': 'company', 'relation': 'will repair product upon', 'object': 'receipt of proof of purchase'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect under home use during warranty period'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect in material under home use during warranty period set forth'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect in material under home use during warranty period set'}
+|-  {'subject': 'company', 'relation': 'will repair product upon', 'object': 'receipt of proof of retail purchase'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect under normal home use'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect in material under normal home use during warranty period set forth below'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect in material under normal home use'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect under normal home use during warranty period'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect in material under home use during warranty period set below'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect under home use during warranty period set forth'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect in material under normal home use during warranty period set below'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect under home use'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect under normal home use during warranty period set below'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect in material under home use'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect under home use during warranty period set below'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect in material under home use during warranty period'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect under home use during warranty period set forth below'}
+|-  {'subject': 'company', 'relation': 'will repair product upon', 'object': 'receipt of proof'}
+|-  {'subject': 'company', 'relation': 'will repair', 'object': 'product'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect under home use during warranty period set'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect in material under home use during warranty period set forth below'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect in material under normal home use during warranty period set'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect in material'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect under normal home use during warranty period set'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect in material under normal home use during warranty period'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect under normal home use during warranty period set forth'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect in material under normal home use during warranty period set forth'}
+|-  {'subject': 'your LG product', 'relation': 'Should fail due to', 'object': 'defect under normal home use during warranty period set forth below'}
+|-  {'subject': 'company', 'relation': 'will repair product upon', 'object': 'receipt of proof of original retail purchase'}
+"
+This warranty is valid only for the original retail purchaser of the product and applicable only to a product sold in India by the companys authorized dealer.,"|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'only purchaser'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'only original purchaser of product'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'only original retail purchaser of product'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'purchaser of product'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'retail purchaser'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'only original retail purchaser'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'original purchaser of product'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'only retail purchaser'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'only purchaser of product'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'purchaser'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'only original purchaser'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'retail purchaser of product'}
+|-  {'subject': 'applicable', 'relation': 'authorized', 'object': 'dealer'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'original retail purchaser of product'}
+|-  {'subject': 'warranty', 'relation': 'is', 'object': 'valid'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'original retail purchaser'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'only retail purchaser of product'}
+|-  {'subject': 'warranty', 'relation': 'is valid for', 'object': 'original purchaser'}
+"
+The LG Water Puriers comes with a 1 year warranty from the date of purchase.,"|-  {'subject': 'LG Water Puriers', 'relation': 'comes with', 'object': 'warranty from date of purchase'}
+|-  {'subject': 'LG Water Puriers', 'relation': 'comes with', 'object': 'warranty from date'}
+|-  {'subject': 'LG Water Puriers', 'relation': 'comes with', 'object': '1 year warranty'}
+|-  {'subject': 'LG Water Puriers', 'relation': 'comes with', 'object': '1 year warranty from date of purchase'}
+|-  {'subject': 'LG Water Puriers', 'relation': 'comes with', 'object': '1 year warranty from date'}
+|-  {'subject': 'LG Water Puriers', 'relation': 'comes with', 'object': 'warranty'}
+"
+"The 1 year warranty covers all functional parts (except consumables all inside lters, plastic parts), provided the warranty card bears the rubber stamp, date, and signature of our Authorized Dealer.","|-  {'subject': 'warranty card', 'relation': 'bears', 'object': 'signature of our Authorized Dealer'}
+|-  {'subject': 'warranty card', 'relation': 'bears', 'object': 'signature'}
+|-  {'subject': 'date', 'relation': 'signature of', 'object': 'our Authorized Dealer'}
+|-  {'subject': 'warranty card', 'relation': 'signature of', 'object': 'our Authorized Dealer'}
+|-  {'subject': '1 year warranty', 'relation': 'covers', 'object': 'functional parts'}
+|-  {'subject': 'year warranty', 'relation': 'covers', 'object': 'functional parts'}
+|-  {'subject': 'warranty card', 'relation': 'bears', 'object': 'rubber stamp'}
+|-  {'subject': 'warranty card', 'relation': 'bears', 'object': 'date'}
+"
+"If the original date of purchase cannot be veried from the proof of purchase, the warranty will begin 3 months after the manufacturing month, which shall be veried based on the serial no.",
+/barcode label on the product.,
+LG Electronics India Pvt.,
+Ltd.,
+"(LGEIL/the Company) offers you limited warranty for products sold within the territories of India and guarantees that the product is free from defects in material and workmanship, according to the following terms and conditions: Repairs under warranty shall be carried out by authorized service personnel only.","|-  {'subject': 'product', 'relation': 'is', 'object': 'free'}
+|-  {'subject': 'LGEIL/the Company', 'relation': 'offers', 'object': 'warranty for products'}
+|-  {'subject': 'product', 'relation': 'is free from', 'object': 'defects in material'}
+|-  {'subject': 'LGEIL/the Company', 'relation': 'offers', 'object': 'limited warranty'}
+|-  {'subject': 'LGEIL/the Company', 'relation': 'offers', 'object': 'you'}
+|-  {'subject': 'defects', 'relation': 'is in', 'object': 'material'}
+|-  {'subject': 'LGEIL/the Company', 'relation': 'offers', 'object': 'warranty'}
+|-  {'subject': 'product', 'relation': 'is free from', 'object': 'defects'}
+|-  {'subject': 'LGEIL/the Company', 'relation': 'offers warranty according to', 'object': 'terms'}
+|-  {'subject': 'LGEIL/the Company', 'relation': 'offers warranty according to', 'object': 'following terms'}
+"
+The details of centralized help lines are provided in the overleaf.,"|-  {'subject': 'details', 'relation': 'are provided in', 'object': 'overleaf'}
+|-  {'subject': 'details', 'relation': 'are', 'object': 'provided'}
+"
+"In case of repairs or replacement of any part of the unit, this warranty will thereafter continue and remain in force only for the unexpired period of the warranty.","|-  {'subject': 'warranty', 'relation': 'will continue In case of', 'object': 'repairs of part of unit'}
+|-  {'subject': 'warranty', 'relation': 'remain for', 'object': 'only unexpired period'}
+|-  {'subject': 'warranty', 'relation': 'will thereafter continue In case of', 'object': 'repairs of part of unit'}
+|-  {'subject': 'warranty', 'relation': 'remain for', 'object': 'period of warranty'}
+|-  {'subject': 'warranty', 'relation': 'remain for', 'object': 'only period of warranty'}
+|-  {'subject': 'warranty', 'relation': 'remain in', 'object': 'force'}
+|-  {'subject': 'warranty', 'relation': 'remain for', 'object': 'unexpired period of warranty'}
+|-  {'subject': 'warranty', 'relation': 'remain for', 'object': 'only period'}
+|-  {'subject': 'warranty', 'relation': 'remain for', 'object': 'only unexpired period of warranty'}
+|-  {'subject': 'warranty', 'relation': 'remain for', 'object': 'period'}
+|-  {'subject': 'warranty', 'relation': 'remain for', 'object': 'unexpired period'}
+"
+Replacement of parts will be solely at the discretion of LGEIL.,"|-  {'subject': 'Replacement', 'relation': 'will at', 'object': 'will solely discretion of LGEIL'}
+|-  {'subject': 'parts', 'relation': 'Replacement of be', 'object': 'will discretion of LGEIL'}
+|-  {'subject': 'parts', 'relation': 'Replacement of be', 'object': 'will solely discretion'}
+|-  {'subject': 'Replacement', 'relation': 'will at', 'object': 'will discretion of LGEIL'}
+|-  {'subject': 'Replacement', 'relation': 'will at', 'object': 'will discretion'}
+|-  {'subject': 'parts', 'relation': 'Replacement of be', 'object': 'will solely discretion of LGEIL'}
+|-  {'subject': 'parts', 'relation': 'Replacement of be', 'object': 'will discretion'}
+|-  {'subject': 'Replacement', 'relation': 'will at', 'object': 'will solely discretion'}
+"
+"In case the replacement of the entire unit is made, (subject to the sole discretion of LGEIL), the same model shall be provided as replacement; if such model has been phased out, the equivalent model as determined by LGEIL shall be provided as replacement.","|-  {'subject': 'equivalent model', 'relation': 'shall', 'object': 'shall provided as replacement'}
+|-  {'subject': 'model', 'relation': 'shall', 'object': 'shall provided as replacement'}
+|-  {'subject': 'equivalent model', 'relation': 'shall', 'object': 'shall provided'}
+|-  {'subject': 'model', 'relation': 'shall', 'object': 'shall provided as replacement'}
+|-  {'subject': 'replacement', 'relation': 'is', 'object': 'made'}
+|-  {'subject': 'replacement', 'relation': 'is made In', 'object': 'case'}
+|-  {'subject': 'model', 'relation': 'shall', 'object': 'shall provided'}
+|-  {'subject': 'same model', 'relation': 'shall', 'object': 'shall provided'}
+|-  {'subject': 'same model', 'relation': 'shall', 'object': 'shall provided as replacement'}
+|-  {'subject': 'model', 'relation': 'shall', 'object': 'shall provided'}
+"
+"In case of repair, LGEIL shall endeavor to use new parts.","|-  {'subject': 'LGEIL', 'relation': 'use', 'object': 'parts'}
+|-  {'subject': 'LGEIL', 'relation': 'shall endeavor In case of', 'object': 'repair'}
+|-  {'subject': 'LGEIL', 'relation': 'use', 'object': 'new parts'}
+"
+"If new parts are not available, however, then LGEIL will have every right to use refurbished parts.",
+The warranty on replacement model / Refurbished part shall remain in force only for the unexpired period of the warranty based on original purchase.,"|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'unexpired period of warranty based on original purchase'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'only unexpired period'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'only unexpired period of warranty'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'unexpired period'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'only period of warranty based on purchase'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'only period of warranty based on original purchase'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'only unexpired period of warranty based on original purchase'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'only period of warranty based on original purchase'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'only unexpired period of warranty'}
+|-  {'subject': 'warranty', 'relation': 'shall remain in', 'object': 'force'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'only period'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'unexpired period of warranty'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'only period of warranty'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'only unexpired period of warranty based on original purchase'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'period of warranty'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'period of warranty based'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'period of warranty based on purchase'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'unexpired period of warranty'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'only unexpired period of warranty based on original purchase'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'unexpired period of warranty based on purchase'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'period of warranty'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'unexpired period of warranty based'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'only unexpired period'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'unexpired period of warranty based on purchase'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'period of warranty based on original purchase'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain in', 'object': 'force'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'unexpired period of warranty based'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'only unexpired period of warranty based on purchase'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'only period of warranty based on purchase'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'only period of warranty based on purchase'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'unexpired period'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'only period'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'period of warranty based on original purchase'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'only unexpired period of warranty'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'unexpired period'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'period of warranty based on original purchase'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'period of warranty'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'period of warranty based on purchase'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'only unexpired period of warranty based'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'only unexpired period of warranty based'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'only unexpired period of warranty based on purchase'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'unexpired period of warranty based on purchase'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'period of warranty based'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'only unexpired period of warranty based on purchase'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'period'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'period of warranty based'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'unexpired period of warranty based on original purchase'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'only period of warranty'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'unexpired period of warranty'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'period'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'only unexpired period'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'only unexpired period of warranty based'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'unexpired period of warranty based'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'only period of warranty based on original purchase'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'only period of warranty based'}
+|-  {'subject': 'part', 'relation': 'shall remain in', 'object': 'force'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'only period of warranty based'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'period of warranty based on purchase'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'period'}
+|-  {'subject': 'Refurbished part', 'relation': 'shall remain for', 'object': 'only period of warranty based'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'only period of warranty'}
+|-  {'subject': 'warranty', 'relation': 'shall remain for', 'object': 'only period'}
+|-  {'subject': 'part', 'relation': 'shall remain for', 'object': 'unexpired period of warranty based on original purchase'}
+"
+The company or its Authorized Service Center reserves the right to retain any part or component replaced at its discretion in case of a defect discovered in the equipment during the warranty period.,
+The company offers 3 free visits for PM (Preventive Maintenance) in which complete Electrolysis Sterilization will be done & out-sediment Pre Filter Candle will be replaced at each visit.,"|-  {'subject': 'company', 'relation': 'offers', 'object': '3 visits'}
+|-  {'subject': 'company', 'relation': 'offers', 'object': '3 visits for PM'}
+|-  {'subject': 'complete Electrolysis Sterilization', 'relation': 'will', 'object': 'will done at visit'}
+|-  {'subject': 'company', 'relation': 'offers', 'object': '3 free visits for PM'}
+|-  {'subject': 'Pre Filter Candle', 'relation': 'will', 'object': 'will replaced'}
+|-  {'subject': 'out-sediment Pre Filter Candle', 'relation': 'will', 'object': 'will replaced'}
+|-  {'subject': 'company', 'relation': 'offers', 'object': '3 free visits'}
+|-  {'subject': 'Electrolysis Sterilization', 'relation': 'will', 'object': 'will done at visit'}
+"
+"If any of the colored internal or external components is replaced, LGEIL is committed to ensuring that the shades match the original or other components.","|-  {'subject': 'shades', 'relation': 'match', 'object': 'components'}
+|-  {'subject': 'LGEIL', 'relation': 'is committed', 'object': 'ensuring'}
+|-  {'subject': 'any', 'relation': 'is', 'object': 'replaced'}
+|-  {'subject': 'LGEIL', 'relation': 'is', 'object': 'committed'}
+|-  {'subject': 'LGEIL', 'relation': 'is committed', 'object': 'replaced'}
+|-  {'subject': 'shades', 'relation': 'match', 'object': 'original components'}
+"
+"The replaced shades, patterns, or tints may vary from the customers unit due to continuous usage of the unit.","|-  {'subject': 'patterns', 'relation': 'may vary due to', 'object': 'usage'}
+|-  {'subject': 'shades', 'relation': 'may vary due to', 'object': 'usage'}
+|-  {'subject': 'patterns', 'relation': 'may vary due to', 'object': 'continuous usage of unit'}
+|-  {'subject': 'patterns', 'relation': 'may vary from', 'object': 'customers unit'}
+|-  {'subject': 'patterns', 'relation': 'may vary due to', 'object': 'usage of unit'}
+|-  {'subject': 'tints', 'relation': 'may vary from', 'object': 'customers unit'}
+|-  {'subject': 'shades', 'relation': 'may vary due to', 'object': 'usage of unit'}
+|-  {'subject': 'replaced shades', 'relation': 'may vary due to', 'object': 'usage of unit'}
+|-  {'subject': 'replaced shades', 'relation': 'may vary due to', 'object': 'continuous usage of unit'}
+|-  {'subject': 'patterns', 'relation': 'may vary due to', 'object': 'continuous usage'}
+|-  {'subject': 'replaced shades', 'relation': 'may vary due to', 'object': 'usage'}
+|-  {'subject': 'tints', 'relation': 'may vary due to', 'object': 'continuous usage of unit'}
+|-  {'subject': 'tints', 'relation': 'may vary due to', 'object': 'usage'}
+|-  {'subject': 'tints', 'relation': 'may vary due to', 'object': 'continuous usage'}
+|-  {'subject': 'tints', 'relation': 'may vary due to', 'object': 'usage of unit'}
+|-  {'subject': 'replaced shades', 'relation': 'may vary due to', 'object': 'continuous usage'}
+|-  {'subject': 'shades', 'relation': 'may vary due to', 'object': 'continuous usage'}
+|-  {'subject': 'shades', 'relation': 'may vary due to', 'object': 'continuous usage of unit'}
+|-  {'subject': 'replaced shades', 'relation': 'may vary from', 'object': 'customers unit'}
+|-  {'subject': 'shades', 'relation': 'may vary from', 'object': 'customers unit'}
+"
+Any matching component changed at the customers request other than the component that is actually needed will be charged.,"|-  {'subject': 'request', 'relation': 'be', 'object': 'charged'}
+|-  {'subject': 'request other', 'relation': 'be', 'object': 'charged'}
+|-  {'subject': 'matching component', 'relation': 'changed at', 'object': 'customers'}
+"
+"This warranty will automatically be terminated upon the expiration of the warranty period specied above,  even if the LG product may not be in use at any time during the warranty period for any reason.",
+8,
+"In case of any unpredicted situation, and spares are not available, LGs prevailing depreciation policy (subject to the sole discretion of LGEIL, may be changed without prior notice) will be applied to the product as a solution.",
+9,
+Only courts in the state of Delhi and places where LGEIL has a branch ofce shall have jurisdiction over the settlement of any and all claims and disputes arising during the warranty.,"|-  {'subject': 'branch ofce', 'relation': 'have', 'object': 'jurisdiction'}
+|-  {'subject': 'courts', 'relation': 'is in', 'object': 'state of Delhi'}
+"
+Visiting charges of the service engineer for units installed beyond the municipal limits of the jurisdiction of the companys Authorized Service Center.,
+"All expenses incurred in collecting the units or parts thereof from the companys authorized service center as well as expenses incurred from deputizing service personnel/technicians for conveyance and other incidentals, etc.",
+", shall be borne by the customer.",
+Local charges for transportation and handling charges may vary by location.,"|-  {'subject': 'Local charges', 'relation': 'may vary by', 'object': 'location'}
+|-  {'subject': 'charges', 'relation': 'may vary by', 'object': 'location'}
+"
+Customers are advised to verify in advance.,"|-  {'subject': 'Customers', 'relation': 'verify in', 'object': 'advance'}
+|-  {'subject': 'Customers', 'relation': 'are advised', 'object': 'verify'}
+|-  {'subject': 'Customers', 'relation': 'are', 'object': 'advised'}
+|-  {'subject': 'Customers', 'relation': 'are advised', 'object': 'verify in advance'}
+"
+"If the customer wishes to bring the unit on his/her own to an authorized service center, such shall be at his/her own risks & consequences.","|-  {'subject': 'customer', 'relation': 'bring unit on', 'object': 'his/her own to service center'}
+|-  {'subject': 'such', 'relation': 'shall at', 'object': 'shall his/her risks'}
+|-  {'subject': 'such', 'relation': 'shall at', 'object': 'shall his/her own risks'}
+|-  {'subject': 'customer', 'relation': 'bring', 'object': 'unit'}
+|-  {'subject': 'customer', 'relation': 'bring unit on', 'object': 'his/her own'}
+|-  {'subject': 'customer', 'relation': 'bring unit on', 'object': 'his/her own to authorized service center'}
+|-  {'subject': 'customer', 'relation': 'bring unit on', 'object': 'his/her'}
+"
+Reinstallation or uninstallation of product based on customer demand.,
+"Packing material, if used, will also be charged.","|-  {'subject': 'Packing material', 'relation': 'will', 'object': 'will also charged'}
+|-  {'subject': 'Packing material', 'relation': 'will', 'object': 'will charged'}
+|-  {'subject': 'material', 'relation': 'will', 'object': 'will also charged'}
+|-  {'subject': 'material', 'relation': 'will', 'object': 'will charged'}
+"
+Transportation cost in case customer is moving the product to another location.,"|-  {'subject': 'Transportation cost', 'relation': 'is moving', 'object': 'product'}
+|-  {'subject': 'Transportation cost', 'relation': 'is in', 'object': 'case customer'}
+"
+Damage resulting from operating the product in a corrosive atmosphere or contrary to the instructions outlined in the products owners manual.,
+"Replacement of all inside lters (Sediment, Pre carbon, Post Carbon, RO Membrane) are not covered by this warranty.",
+"Damage to the product caused by accidents, pests and vermin, lightning, wind, re, oods, or acts of God.",
+"Damage resulting from misuse, abuse, improper installation, repair, or maintenance.","|-  {'subject': 'Damage', 'relation': 'resulting from', 'object': 'misuse'}
+"
+Improper repair includes use of parts other than those approved or specied by LGEIL.,"|-  {'subject': 'Improper repair', 'relation': 'includes', 'object': 'use of parts other than those'}
+|-  {'subject': 'Improper repair', 'relation': 'includes', 'object': 'use of parts other than those approved by LGEIL'}
+|-  {'subject': 'Improper repair', 'relation': 'includes', 'object': 'use of parts other'}
+|-  {'subject': 'Improper repair', 'relation': 'includes', 'object': 'use'}
+|-  {'subject': 'repair', 'relation': 'includes', 'object': 'use of parts other'}
+|-  {'subject': 'Improper repair', 'relation': 'includes', 'object': 'use of parts'}
+|-  {'subject': 'Improper repair', 'relation': 'includes', 'object': 'use of parts other than those approved'}
+|-  {'subject': 'repair', 'relation': 'includes', 'object': 'use of parts other than those approved by LGEIL'}
+|-  {'subject': 'repair', 'relation': 'includes', 'object': 'use of parts'}
+|-  {'subject': 'repair', 'relation': 'includes', 'object': 'use of parts other than those'}
+|-  {'subject': 'repair', 'relation': 'includes', 'object': 'use of parts other than those approved'}
+|-  {'subject': 'repair', 'relation': 'includes', 'object': 'use'}
+"
+Damage or failure caused by unauthorized modication or alteration or use for purposes other than the intended purpose or any water leak in case the unit was not properly installed.,
+"Damage or failure caused by incorrect electrical current, voltage, or inadequate electrical services, commercial or industrial use, or use of spurious/fake accessories or components or cleaning products other than those approved by LGEIL.","|-  {'subject': 'Damage', 'relation': 'caused by', 'object': 'current'}
+|-  {'subject': 'Damage', 'relation': 'caused by', 'object': 'electrical current'}
+|-  {'subject': 'Damage', 'relation': 'caused by', 'object': 'incorrect electrical current'}
+|-  {'subject': 'Damage', 'relation': 'caused by', 'object': 'incorrect current'}
+"
+"Damage caused by transportation and handling, including scratches, dents, chips, and/or other damage to the nish of your product, unless such damage is caused by a defect in materials or workmanship and reported within fteen (15) days of delivery (Call 1800-315-9999, 1800-180-9999) Damage or missing items of any display, open box, discounted or refurbished product.","|-  {'subject': 'such damage', 'relation': 'is', 'object': 'caused'}
+|-  {'subject': 'damage', 'relation': 'is', 'object': 'caused'}
+|-  {'subject': 'damage', 'relation': 'is caused by', 'object': 'defect'}
+|-  {'subject': 'delivery', 'relation': 'of fteen is', 'object': '15'}
+|-  {'subject': 'such damage', 'relation': 'reported within', 'object': 'fteen'}
+|-  {'subject': 'damage', 'relation': 'is caused by', 'object': 'defect in materials'}
+|-  {'subject': 'Damage', 'relation': 'caused by', 'object': 'transportation scratches'}
+|-  {'subject': 'damage', 'relation': 'reported within', 'object': '15'}
+|-  {'subject': 'such damage', 'relation': 'reported within', 'object': '15'}
+|-  {'subject': 'defect', 'relation': 'is in', 'object': 'materials'}
+|-  {'subject': 'such damage', 'relation': 'is caused by', 'object': 'defect in materials'}
+|-  {'subject': 'damage', 'relation': 'reported within', 'object': 'fteen of delivery of display'}
+|-  {'subject': 'such damage', 'relation': 'is caused by', 'object': 'defect'}
+|-  {'subject': 'such damage', 'relation': 'reported within', 'object': 'fteen of delivery of display'}
+|-  {'subject': 'Damage', 'relation': 'caused by', 'object': 'transportation'}
+|-  {'subject': 'damage', 'relation': 'reported within', 'object': 'fteen'}
+"
+Free accessories provided external to the product.,"|-  {'subject': 'Free accessories', 'relation': 'provided', 'object': 'external to product'}
+|-  {'subject': 'Free accessories', 'relation': 'provided', 'object': 'external'}
+"
+Damage to the product if the customer has the product repaired by an unauthorized dealer/person.,"|-  {'subject': 'customer', 'relation': 'has', 'object': 'product repaired'}
+|-  {'subject': 'customer', 'relation': 'has', 'object': 'product repaired by unauthorized dealer/person'}
+|-  {'subject': 'customer', 'relation': 'has', 'object': 'product repaired by dealer/person'}
+|-  {'subject': 'customer', 'relation': 'has', 'object': 'product'}
+"
+"Upon removal, tampering, or alteration of the serial number/identication labels on the machine or any of its components.",
+0,

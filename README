@@ -1,0 +1,7 @@
+extraction contains 3 scripts:
+1. extract_txt.py extracts text from pdf
+	usage: python3 extract_txt.py <pdf-file> <txt-file>
+2. extract_sentences.py extracts sentences (stored as array in pickle file) from filtered text file (which contains only sentences)
+	usage: python3 extract_sentences.py <filtered-txt-file> <pickle-file>
+3. extract_triples.py extracts triples (stored in csv file) from sentences array
+	usage: python3 extract_triples.py <pickle-file> <csv-file>

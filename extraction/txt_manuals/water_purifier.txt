@@ -1,0 +1,2529 @@
+ENGLISH
+HINDI
+
+MFL66990819
+Rev.02_080716
+
+TABLE OF CONTENTS
+
+This manual may contain images or content different
+from the model you purchased.
+This manual may be subject to revision by the
+manufacturer.
+
+SAFETY INSTRUCTIONS ..................................................... 03
+Important Safety Instructions ................................................................. 04
+
+INSTALLATION ...................................................................... 07
+Parts and Function ................................................................................ 07
+Notes for Installation ............................................................................. 09
+Installing water purifier ........................................................................... 09
+
+OPERATION .......................................................................... 10
+Notes for Operation ............................................................................... 10
+Using Control Panel ............................................................................... 10
+Operation ............................................................................................... 11
+
+MANAGEMENT ........ ............................................................. 12
+Cleaning ................... ............................................................................. 12
+Maintaining the filer ................................................................................ 13
+
+TROUBLESHOOTING ........................................................... 15
+WATER PIPING DIAGRAM ................................................... 17
+PRODUCT SPECIFICATION ................................................. 21
+WARRANTY CARD ............................................................... 23
+
+SAFETY INSTRUCTIONS
+The following safety guidelines are intended to prevent unforeseen risks or damage
+from unsafe or incorrect operation of the appliance.
+The guidelines are separated into WARNING and CAUTION as described below.
+This symbol is displayed to indicate matters and operations that can
+cause risk. Read the part with this symbol carefully and follow the
+instructions in order to avoid risk.
+WARNING - This indicates that the failure to follow the instructions can
+cause serious injury or death.
+CAUTION - This indicates that the failure to follow the instructions can
+cause minor injury or damage the product.
+
+WARNING
+To reduce the risk of explosion, fire, death, electric shock, injury or scalding
+to persons when using this product, follow basic precautions, including the
+following:
+
+TECHNICAL SAFETY
+ Keep ventilation openings, in the appliance enclosure or in the built-in structure,
+clear of obstruction.
+ Do not use mechanical devices or other means to accelerate the defrosting process,
+#
+other than those recommended by the manufacturer.
+#
+ Do not damage the refrigerant circuit.
+ Do not use electrical appliances inside the food storage compartments of the
+appliance, unless they are of the type recommended by the manufacturer.
+ The refrigerant and insulation blowing gas used in the appliance require special
+disposal procedures. Consult with service agent or a similarly qualified person before
+#
+disposing of them.
+ This appliance contains a small amount of isobutane refrigerant (R600a), natural gas
+with high environmental compatibility, but it is also combustible. When transporting
+and installing the appliance, care should be taken to ensure that no parts of the
+#
+refrigerating circuit are damaged.
+#
+ Refrigerant squirting out of the pipes could ignite or cause an eye injury.
+ If a leak is detected, avoid any naked flames or potential sources of ignition and air
+#
+the room in which the appliance is standing for several minutes.
+ The amount of refrigerant in your particular appliance is shown on the identification
+#
+plate inside the appliance.
+ Never start up an appliance showing any signs of damage. If in doubt, consult your
+dealer.
+ Only an authorized repair person from LG Electronics service centre should
+disassemble, repair, or modify the product. Contact LG Electronics service centre if
+you move the product. Improper service may cause injury, electric shock or fire.
+# For Hot & Cold and Ice models only
+
+03
+
+Important Safety Instructions
+WARNING
+To reduce the risk of explosion, fire, death, electric shock, injury or scalding to
+persons when using this product, follow basic precautions, including the
+following:
+
+Installation
+ Product installation should be done only by LG service technician.
+ Ground the product for safety. For more details on grounding, inquire at LG
+Electronics service centre.#
+ For counter-top installation, install the product on a solid and flat area. If the product
+is installed on an uneven floor, it can generate vibration and noise or cause
+misalignment of the product.
+ Do not install the product in a damp area and keep away from splashing rain or
+water.
+
+Power
+ This appliance is equipped with a cord having an equipment-grounding conductor
+and grounding plug. The plug must be plugged into an appropriate outlet that is
+properly installed and grounded in accordance with all local codes and ordinances. #
+ Use only grounded extension socket outlets.#
+ Do not plug multiple products into multiple socket-outlets or extension cords.
+ Do not touch the power plug with wet hands.
+ Plug the power plug in the outlet tightly after removing the moisture and dust
+completely.
+ When pulling out the power plug from an outlet, hold the power plug, not the cable.
+ If the power cable or power plug is damaged or the hole of the outlet socket is loose,
+do not use the power plug and contact LG Electronics service centre.
+ Unplug the power plug during thunder or lightening or when not in use for a long
+period of time.
+ Do not bend the power cable excessively or place a heavy object on top of it.
+ Do not extend the length of the power cable or alter it.
+ Do not plug and unplug the power plug repeatedly.
+
+# For Hot & Cold and Ice models only
+
+04
+
+Operation
+ In case of flood, stop using the product and contact LG Electronics service centre.
+ If there is a gas leakage (isobutane, propane, natural gas, etc.), do not touch the
+product or power plug and ventilate the area immediately. Sparks can cause
+explosion, fire or injury. This product uses an eco-friendly gas (isobutane, R600a) as
+#
+the refrigerant. Although it uses a small amount of the gas, it is still combustible gas.
+ Do not clean the product with brushes, cloths or sponges with rough surfaces or
+which are made of metallic material.
+ Immediately unplug the power plug and contact LG Electronics service centre if you
+detect any abnormal noise, odour or smoke.
+ Do not place hands or metallic objects below the product or heat releasing grill
+(exhaust pipe) on the back .#
+ There can be sharp edges in a disassembled set, special care to be taken while
+handling.
+ Do not place heavy or fragile objects, liquids, combustible substances, or flammable
+objects (such as candles and lamps) on or inside the product.
+ Do not use or store flammable or combustible substances (ether, benzene, alcohol,
+chemical, LPG, combustible spray, insecticide, air freshener, cosmetics, etc.) near
+the product.
+ If moisture penetrates inside the product, unplug the power plug and contact LG
+Electronics service centre.
+ If water is leaking from the inside of the product or water has collected near the
+product, close the water supply valve, unplug the power plug, and contact LG
+Electronics service centre.
+ Do not move the product while the product is plugged in.
+
+CAUTION
+To reduce the risk of minor injury to persons, malfunction, or damage to the
+product or property when using this product, follow basic precautions, including
+the following:
+
+Installation
+ Connect the water pipe of the product to tap water only. Water other than tap water
+can increase the risk of exposure to disease.
+#
+ Hot water may spattered, so install the drain hose carefully to the drain.
+
+# For Hot & Cold and Ice models only
+
+05
+
+Operation
+ Replace the filter with a LG standard filter periodically according to the replacement
+period. Older filters can multiply bacteria or change the taste of the water. The filter
+replacement period varies according to the usage, place of usage, season, and water
+quality.
+ When using hot water,
+use a container with a handle. (Only applicable to a model with
+#
+hot water function)
+ If the drip tray of the product protrudes from a desk or table, do not place any article on
+top of the drip tray.
+ Take care against the possibility of damaging the pipe (inlet, outlet) in order to prevent
+water leakage.
+ When cleaning the product, unplug the power plug.
+ Do not allow anyone to hang from or climb on the product. Be particularly cautious of
+children operating the product.
+
+# For Hot & Cold and Ice models only
+
+06
+
+INSTALLATION
+Parts and Function (For WAW3* Series)
+Front & Rear
+6
+
+1
+4
+
+5
+
+7
+
+2
+3
+
+8
+Purified water level indicator
+
+Water supply hose
+
+Touch lever
+
+Drain hose
+
+Filter cover
+(floral pattern*)
+
+Top cover
+(floral pattern*)
+
+Cleaning water for fruits &
+veggies*
+
+Power cord
+
+Accessories
+
+Owners
+manual
+
+Mounting
+guide
+
+Owners's Manual
+
+Mounting guide
+
+3/8 tube*
+
+3/8 valve*
+
+Water tray*
+
+Water tray cover*
+
+* For selected models only
+
+07
+
+INSTALLATION
+Parts and Function (For WW1* Series)
+Front & Rear
+7
+
+10
+
+Purified water level indicator
+
+Water supply hose
+
+Touch lever
+
+Drain hose
+
+UV Sterilizing indicator *
+
+Top cover
+(floral pattern*)
+
+Filter cover
+(floral pattern*)
+
+Cleaning water for fruits &
+veggies*
+
+Power cord
+
+10
+
+Filter change indicator ^
+
+Accessories
+
+Owners
+manual
+
+Mounting
+guide
+
+Owners's Manual
+
+Mounting guide
+
+3/8 tube*
+
+3/8 valve*
+
+Water tray
+
+Water tray cover
+
+^ Applicable for Out Sediment filter
+
+* For selected models only
+
+08
+
+Notes for Installation
+
+Installing water purifier
+#
+
+ Keep a distance of over 10 cm between the back
+and sides of the product and the wall for smooth
+ventilation. Not doing so can cause malfunctions.
+
+1
+
+Connect the product hoses as shown below.
+ Connect the white (water supply) hose to tap
+water.
+
+ When connecting the water hose, do not connect it
+to the hot water pipe. Doing so may cause
+malfunctions.
+
+ Install the blue (drain) hose on the sink.
+
+ Check the pipe and hose connection for leaks.
+Water can leak and cause electric shock or injury.
+ When transporting the product, do not tilt the
+product over 30 degrees. Doing so can cause
+malfunctions.
+ Install the product in an indoor place with a
+surrounding temperature of over 5 C and less than
+43 C. Not doing so can cause malfunctions.
+
+White hose
+
+ Avoid installing the water purifier in a place with an
+uneven ground, a large amount of moisture, direct
+sunlight, dust and direct water splashing.
+blue hose
+
+2
+
+Connect the power plug to an appropriate socket.
+
+3
+
+Open the water supply valve.
+
+4
+
+After tank is full, discharge the water for first time.
+(approximately time taken to fill the tank to fullest is
+1hour, depending on water pressure, temperature
+etc.)
+
+# For Hot & Cold and Ice models only
+
+09
+
+OPERATION
+Notes for Operation
+ Open the water supply valve. The water purifier
+operates normally only when water is supplied
+properly.
+
+Using Control panel
+(For WAW3* Series)
+
+ When the hot water and cold water temperature
+icons are turned off, check if the power supply has
+been suspended due to power failure or other
+#
+reasons.
+ It is very important to replace the filter periodically in
+order to drink clean water. When using an expired
+filter, the performance of water filtration system can
+deteriorate. Always abide by the filter replacement
+period.
+
+(For WW1* Series)
+ If the product has not been#used for a long period of
+time, discharge cold water , ROOM TEMP., and hot
+water # for 10 minutes each, and then use. Old water
+can multiply bacteria or change the water taste.
+3
+
+ Do not use purified water for replacing water in the
+humidifier or fishbowl. Leaving purified water as it is
+for a long period of time can multiply bacteria.
+ Use the product only after closing the product cover
+completely. Otherwise, insects or other foreign
+substances may get in.
+
+Note
+
+Water level indicator
+
+ The reverse osmosis contains a replaceable
+treatment component critical for the effective
+reduction of total dissolved solids and that product
+water shall be tested periodically to verify that the
+system is performing properly.
+
+The water level of the storage tank is displayed in
+3 levels.
+
+ Do not use with water that is microbiologically
+unsafe or of unknown quality, without adequate
+disinfection before or after the system.
+
+ The icon is divided into 3 levels according to the
+water level, and as more indication lamps turn
+on, the water level becomes higher.
+However, the water level cannot be adjusted
+discretionally.
+
+(For WAW3* Series)
+
+Suggestion for energy saving
+ If the product will not be used for a long period of
+time, unplug the power plug and drain the water
+inside the water filtration system completely.
+ In case the hot water or cold water function will not
+be used, turn the hot water or cold water function
+off. #
+
+(For WW1* Series)
+
+Level 1
+
+* For selected models only
+# For Hot & Cold and Ice models only
+
+10
+
+Level 2
+
+Level 3
+
+UV Sterilizing indicator*
+Purified water is sterilized by the UV LED.
+Blue color indicates that UV sterilization is ON
+& White color indicates that UV sterilization is OFF.
+(When tank cover is open, UV LED will be
+automatically turned OFF for your safety.)
+
+Operation
+Using purified water
+When you press the touch lever, purified water will come
+out.
+
+NOTE
+If you wish to discharge continuously, lift the touch lever
+upward.
+
+NOTE
+The UV LED operates in any of the following 2 cases.
+ It operates for 75 minutes after every 6 hours.
+ It operates for 75 minutes after approximately 2
+seconds when power is turned on following a power
+failure.
+
+3
+
+Filter Change Indicator *^
+When the color of indicator changes from blue to
+amber, this indicates that it is time for preventive
+maintenance service. Please call LG customer
+care for service.
+^ Applicable for Out Sediment filter
+
+Using the fruit & vegetable cleaning
+water *
+Open the valve. You can rinse fruits and vegetables,
+wash dishes and brush your teeth.
+The function discharges water while the valve is opened.
+
+Valve open
+
+Valve close
+
+NOTE
+Do not use this water for drinking and cooking.
+
+* For selected models only
+
+11
+
+MANAGEMENT
+Cleaning
+How to clean the storage tank
+
+1
+
+4
+
+Separate the top cover by lifting it upward, and
+then unlock the storage tank cover.
+Caution : Handle with care, sharp edges may
+cause injury.
+
+Close the water supply valve.
+
+(For WAW3* Series)
+
+2
+
+Drain water inside the storage tank completely
+using the drain hose and the water outlet.
+However, do not discard drained water.
+
+(For WW1* Series)
+
+(For WAW3* Series)
+
+Caution : Do not put pressure or weight on tank
+cover, it may cause damage or injury.
+
+(For WW1* Series)
+
+5
+
+Wipe the surface of the storage tank with a soft clean
+cloth.
+
+
+
+6
+3
+
+12
+
+Unplug the power plug.
+
+Rinse the storage tank with the drained purified
+water and drain the water completely.
+Caution : Take care of water spattering, it may cause
+electric shock.
+
+7
+
+Insert and lock the storage tank cover.
+
+How to clean drip tray
+
+1
+
+Separate the drip grid by pulling it upwards.
+Caution : Handle with care, sharp edges may
+cause injury.
+
+8
+
+Close the top cover, plug in the power cord and
+open the water supply valve.
+
+9
+
+Some time is necessary to fill water in the tank.
+Wait approximately 1 hour, and then press the touch
+lever and check if water comes out. However, the
+time to fill water may vary according to the water
+pressure.
+
+NOTE
+ Unplug the power plug when cleaning the storage
+tank.
+ Do not clean the tank using tap water.
+
+2
+
+Separate the drip tray by pulling it forward.
+
+3
+4
+
+Clean it with water.
+
+5
+
+Install the drip tray on the product.
+
+6
+
+Place the drip grid on the drip tray, adhere it to the
+front side of the product closely, and gently push it
+to install.
+
+Wipe the surface of the drip tray with a soft clean
+cloth.
+
+ Do not use chemical or detergent for cleaning the
+storage tank. Chemical or detergent will not be
+washed away completely, it can be harmful to the
+human body.
+
+How to clean water outlet
+NOTE
+
+1
+
+Clean the water outlet periodically using a soft
+clean brush. Fur or foreign substances can
+accumulate in the water outlet.
+
+ Caution should be taken. If a large amount of water
+is in the drip tray, water can spill out when separating
+the drip tray.
+
+Maintaining the filter
+Process of Purification
+Drinking water
+Step 1 : Out Sediment filter
+ Removes big particles, rust stains, mud etc.
+
+Step 2: Sediment filter
+ Removes unseen dregs and other contamination.
+
+* For selected models only
+
+Step 3: Pre-carbon filter
+ Removes invisible fine particles, residual chlorine,
+VOC(Volatile Organic Compounds) etc.
+
+13
+
+Step 4: RO membrane filter
+
+NOTE
+
+ Removes dissolved impurities and removes heavy
+metals, bacteria, viruses, VOC etc. from water.
+
+ Do not use water drained from the product for
+drinking or cooking.
+
+Step 5:
+(For WAW3* series)
+Post-carbon filter
+ Removes odour & improves taste of water.
+
+(For WW1* series)
+Mineral booster filter
+
+ Use the water instead for cleaning the bathroom and
+house, doing the laundry or for other various
+purposes.
+ Activated carbon inside the filter may sometimes
+flow in the storage tank. If so, a fine powder of
+activated carbon used in the post-carbon filter has
+come out, and it is harmless to the human body. If
+found, drain out the water from tank completely.
+
+ Add minerals in the purified water without mixing
+impure water.
+
+Filter replacement period
+The filter replacement period refers to the period that the
+purification performance of the filter is maintained.
+And, the replacement period is lesser in the case
+of a place with poor water quality or a large purification
+amount.
+
+Filter name
+
+Recommended
+purification amount**
+
+Out Sediment filter
+
+3000 
+
+Sediment filter
+
+6000 
+
+Pre-carbon filter
+
+6000 
+
+RO membrane filter
+
+6000 
+
+Step 1: Out Sediment filter
+
+Post-carbon filter*
+
+6000 
+
+ Removes big particles, rust stains, mud etc.
+
+Mineral booster filter*
+
+6000 
+
+UF membrane filter
+
+6000 
+
+Cleaning water for fruits & veggies*
+
+Step 2: UF membrane filter
+ Removes only bacteria and fine particle substance.
+
+NOTE
+ If you wish to replace the filter, contact LG Electronics
+service centre.
+ After replacing the filter, check if there is a leak from
+the product.
+ After installation, when tank is full discard the water
+for first time. (approximately time taken to fill the tank
+to fullest is 1hour, depending on water pressure, temp
+etc.)
+ Around 25% of supplied
+water (based on the tap water
+pressure of 3.5 kgf/cm2 at the water temperature of 25
+C) will be purified and the remainder will be drained.
+
+* For selected models only
+** As per LGEIL standard.
+
+14
+
+TROUBLESHOOTING
+Reason
+
+Symptoms
+
+Is the power turned off?
+
+Water does not come
+out.
+
+ The taste of water may change as it ages
+due to bacterial multiplication. Use the
+water purifier after# discharging cold
+water #, hot water and ROOM TEMP.
+for 10 minutes each.
+
+Has it been a long time since you
+installed and replaced the filter?
+
+ If an expired filter is used, the
+purification performance may decline.
+It is recommended to replace the filter
+according to the filter replacement period.
+
+Is it time to replace the filter?
+
+ Request for filter replacement.
+
+Is the water supply valve closed?
+
+ Open the water supply valve.
+
+Did you miss the filter
+replacement period?
+
+ Request filter replacement.
+
+Is the water supply valve closed?
+
+ Open the water supply valve.
+
+Is the power plug unplugged from
+the outlet?
+
+ Plug the power plug in the outlet correctly.
+
+Does water not come out when
+#
+you press the discharge button?
+
+ Contact LG Electronics service centre.
+
+Did you turn
+off the relevant
+#
+function?
+
+#
+
+Cold water , hot water
+or ROOM TEMP. water
+does not come out.
+
+#
+
+ Press the power button on the control
+panel to turn it on.
+
+Have you left the water purifier
+for a long period of time
+without using it?
+Water tastes strange.
+
+The purification amount
+has reduced suddenly.
+
+Solution
+
+Did you discharge a large amount
+#
+of cold water?
+
+Did you discharge a lot of hot
+#
+water?
+
+ Turn on the relevant function
+
+ If you have discharged a lot of cold water
+so that there is little water in the storage
+tank, cold water may not come out. Wait a
+while until water is filled inside the storage
+tank and then use. (Only applicable to
+models with a storage tank)
+ If you discharge a large amount of cold
+water at once, the temperature of cold
+water inside the cold water tank will rise.
+Wait a while until cold water becomes
+colder and then use. (Only applicable to
+models with a cooling tank)
+ If you discharge a lot of hot water at once,
+the temperature of hot water inside the
+hot water tank drops and tepid water may
+come out. Wait a while until hot water
+becomes hotter and then use. (Only
+applicable to models with a hot water
+tank)
+
+# For Hot & Cold and Ice models only
+
+15
+
+Reason
+
+Solution
+
+Did you discharge a lot of ROOM
+TEMP. water?
+
+ If you have discharged a lot of purified
+water (including Room Temp.) so that
+there is little purified water in the storage
+tank, purified water may not come put.
+Wait a while until water is filled inside
+the storage tank and then use. (Only
+applicable to models with a storage tank)
+
+Is the product installed on a weak
+floor or not installed on a stable
+surface?
+
+ Install the product in a place with a flat
+and even surface.
+
+Does the back of the product
+#
+touch the wall?
+
+ Adjust the installation position to ensure
+there is enough space around the
+product. (10 cm)
+
+Is an article placed on top of the
+product?
+
+ Remove the article placed on top of the
+product.
+
+Symptoms
+
+#
+
+Cold water , hot water
+or ROOM TEMP. water
+does not come out.
+
+#
+
+The product is
+noisy and generates
+abnormal sounds.
+
+No ice forms in
+the product. (Only
+applicable to models
+#
+with ice function)
+
+Is the ice machine cover opened?
+
+ Put on the ice machine cover.
+
+Have 6 hours have passed
+since tap water
+and power were
+#
+supplied?
+
+ Use the product after 6 hours have
+passed since tap water and power were
+supplied.
+
+Did water bubbles form?
+
+ Water bubbles may form in the draining
+process. It is safe for you to drink.
+
+Fine particles occur in
+the purified water.
+
+# For Hot & Cold and Ice models only
+
+16
+
+#
+
+ If fine particles exist continuously after
+you receive water from the water purifier
+and several minutes have passed,
+cut off the tap water supply and power
+supply and contact LG Electronics service
+centre.
+
+WATER PIPING DIAGRAM
+WW180EP
+Water level sensor
+
+Water for normal
+use piping diagram
+
+UV LED
+
+Water tank
+(Approx. 8 liters)
+Water cock
+(mechanical type)
+
+Purified
+water
+
+1st
+2nd
+Valve Valve
+
+Source
+water
+
+LPS
+
+Out
+Sediment
+lter
+
+Pre
+carbon
+filter
+
+Sediment
+filter
+
+Cleaning
+Cleaning water
+water for
+for
+fruits & veggies
+Drain water
+
+Booster
+pump
+
+RO
+filter
+
+Mineral
+booster
+filter
+
+UF
+filter
+
+Drain water
+Flushing Valve &
+Reducer
+
+Electrolysis Sterilizing Care
+Water piping diagram
+
+Water level sensor
+
+UV LED
+
+Water tank
+(Approx. 8 liters)
+Sterilized water
+/
+Normal water
+
+Water cock
+(mechanical type)
+
+Source
+water
+
+1st
+2nd
+Valve Valve
+
+LPS
+
+Out
+Sediment
+lter
+
+Booster
+pump
+
+Sediment
+filter
+
+Electronic water
+sterilization Kit
+
+17
+
+WW170EP
+Water level sensor
+
+Water for normal
+use piping diagram
+
+UV LED
+
+Water tank
+(Approx. 8 liters)
+Water cock
+(mechanical type)
+
+Purified
+water
+
+1st
+2nd
+Valve Valve
+
+Source
+water
+
+LPS
+
+Out
+Sediment
+lter
+
+Booster
+pump
+
+Pre
+carbon
+filter
+
+Sediment
+filter
+
+RO
+filter
+
+Mineral
+booster
+filter
+
+Drain water
+Flushing Valve &
+Reducer
+
+Electrolysis Sterilizing Care
+Water piping diagram
+
+Water level sensor
+
+UV LED
+
+Water tank
+(Approx. 8 liters)
+Sterilized water
+/
+Normal water
+
+Water cock
+(mechanical type)
+
+Source
+water
+
+1st
+2nd
+Valve Valve
+
+LPS
+
+Out
+Sediment
+lter
+
+Booster
+pump
+
+Sediment
+filter
+
+Electronic water
+sterilization Kit
+
+18
+
+WW160EP
+Water level sensor
+
+Water for normal
+use piping diagram
+
+Water tank
+(Approx. 8 liters)
+Water cock
+(mechanical type)
+
+Purified
+water
+
+1st
+2nd
+Valve Valve
+
+Source
+water
+
+LPS
+
+Out
+Sediment
+lter
+
+Booster
+pump
+
+Pre
+carbon
+filter
+
+Sediment
+filter
+
+RO
+filter
+
+Mineral
+booster
+filter
+
+Drain water
+Flushing Valve &
+Reducer
+
+Electrolysis Sterilizing Care
+Water piping diagram
+
+Water level sensor
+
+Water tank
+(Approx. 8 liters)
+Sterilized water
+/
+Normal water
+
+Water cock
+(mechanical type)
+
+Source
+water
+
+1st
+2nd
+Valve Valve
+
+LPS
+
+Out
+Sediment
+lter
+
+Booster
+pump
+
+Sediment
+filter
+
+Electronic water
+sterilization Kit
+
+19
+
+WAW3*RW2RP
+Water level sensor
+
+Water for normal
+use piping diagram
+
+Water tank
+(Approx. 8 liters)
+Water cock
+(mechanical type)
+
+Puried
+water
+
+Source
+water
+
+1st
+2nd
+Valve Valve Booster
+pump
+
+LPS
+
+Out
+Sediment
+lter
+
+Sediment
+filter
+
+Pre
+carbon
+lter
+
+RO
+lter
+
+Post
+carbon
+lter
+
+Drain water
+Flushing Valve
+& Reducer
+
+Electrolysis Sterilizing Care
+Water piping diagram
+
+Water level sensor
+
+Water tank
+(Approx. 8 liters)
+Sterilized water
+/
+Normal water
+
+Water cock
+(mechanical type)
+
+Source
+water
+
+1st
+2nd
+Valve Valve
+
+LPS
+
+Out
+Sediment
+lter
+
+Booster
+pump
+
+Sediment
+lter
+
+Electronic water
+sterilization Kit
+
+20
+
+PRODUCT SPECIFICATION
+Model name
+
+Purication
+method
+
+WW180EP
+
+WW170EP
+
+WW160EP
+
+WAW33RW2RP
+
+WAW35RW2RP
+
+Drinking
+water
+
+Reverse
+Osmosis
+
+Reverse
+Osmosis
+
+Reverse
+Osmosis
+
+Reverse
+Osmosis
+
+Reverse
+Osmosis
+
+Fruit &
+vegetable
+cleaning
+water
+
+Ultra-ltration
+
+-
+
+-
+
+-
+
+-
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+UV Sterilizing
+Rated Voltage
+
+230 V~ 50 Hz
+
+Power Rating
+
+Water purifying : 32W
+
+Volume of Tank
+
+Filter
+material
+
+Approx. 8 
+
+Sediment
+lter
+
+Polypropylene Module
+
+Pre-carbon
+lter
+
+Activated carbon
+
+RO
+membrane
+lter
+
+Polysulfone + Polyamides
+
+Post-carbon
+lter *
+
+Activated carbon
+
+Mineral booster
+lter *
+
+Activated carbon + Mineral booster
+
+UF
+membrane
+lter
+
+Polysulfone
+
+Dimension
+
+365 mm(W)295 mm(D)500 mm(H)
+/ without water tray : 365 (W)275 (D)500 (H)
+
+Net Weight
+
+10 kg
+
+365 mm(W)295 mm(D)500 mm(H)
+/ without water tray : 365 (W)270 (D)500 (H)
+
+9.5 kg
+
+9 kg
+
+Guarantee installation
+water pressure
+
+40 - 860 kPa (0.4 - 8.8 kgf/cm 2 )
+
+Internal operating pressure
+
+Min. 140 kPa (Avg. 680 kPa) (Before Filtration)
+Recommended input water quality
+
+Total Dissolved Solids (TDS)
+
+ 2000 ppm
+
+Total Hardness
+
+ 425 ppm
+
+Turbidity
+
+ 5 NTU
+
+* For selected models only
+
+21
+
+22
+
+WARRANTY CARD
+LG WATER PURIFIER
+This warranty card is valid only for products
+sold by LG Electronics in the Indian Market.
+www.lg.com/in
+PURCHASER INFORMATION
+PURCHASER'S NAME
+ADDRESS
+
+CITY
+
+STATE
+
+PIN CODE
+
+MODEL NO.
+SERIAL NO.
+DATE OF PURCHASE
+INVOICE NO.
+DEALER STAMP
+
+STAMP
+
+DEALER INFORMATION
+DEALER'S NAME
+ADDRESS
+
+CITY
+
+STATE
+
+PIN CODE
+
+23
+
+THIS WARRANTY IS NOT TRANSFERABLE
+AND IS APPLICABLE TO THE ORIGINAL
+PURCHASER ONLY.
+FILL OUT THIS RECORD AND KEEP IT
+TOGETHER WITH YOUR
+PURCHASE DOCKET IN A SAFE PLACE.
+SHOULD YOU REQUIRE SERVICE UNDER
+THE TERMS OF THIS WARRANTY,
+PLEASE CONTACT US.
+
+24
+
+LG ELECTRONICS INDIA PVT. LTD.
+UNDERTAKES BY THIS WARRANTY
+THE REQUIREMENT OF WARRANTY
+Should your LG product fail due to a defect in material or
+workmanship under normal home use during the warranty period
+set forth below, the company will repair or replace the product upon
+receipt of proof of original retail purchase.
+This warranty is valid only for the original retail purchaser of the
+product and applicable only to a product sold in India by the
+companys authorized dealer.
+
+WARRANTY PERIOD
+The LG Water Puriers comes with a 1 year warranty from the
+date of purchase. The 1 year warranty covers all functional parts
+(except consumables all inside lters, plastic parts), provided
+the warranty card bears the rubber stamp, date, and signature
+of our Authorized Dealer.
+*Note: If the original date of purchase cannot be veried from
+the proof of purchase, the warranty will begin 3 months
+after the manufacturing month, which shall be veried
+based on the serial no./barcode label on the product.
+
+WHAT THIS WARRANTY COVERS
+LG Electronics India Pvt. Ltd. (LGEIL/the Company) offers you
+limited warranty for products sold within the territories
+of India and guarantees that the product is free from defects in
+material and workmanship, according to the following terms and
+conditions:
+1. Repairs under warranty shall be carried out by
+authorized service personnel only. The details of
+centralized help lines are provided in the overleaf.
+2. In case of repairs or replacement of any part of the
+unit, this warranty will thereafter continue and remain
+in force only for the unexpired period of the warranty.
+Replacement of parts will be solely at the discretion of
+LGEIL. In case the replacement of the entire unit is
+made, (subject to the sole discretion of LGEIL), the
+same model shall be provided as replacement; if such
+model has been phased out, the equivalent model as
+determined by LGEIL shall be provided as
+replacement.
+3. In case of repair, LGEIL shall endeavor to use new
+parts. If new parts are not available, however, then
+LGEIL will have every right to use refurbished parts.
+The warranty on replacement model / Refurbished part
+shall remain in force only for the unexpired period of
+the warranty based on original purchase.
+4. The company or its Authorized Service Center
+reserves the right to retain any part or component
+replaced at its discretion in case of a defect
+discovered in the equipment during the warranty
+period.
+5. The company offers 3 free visits for PM (Preventive
+Maintenance) in which complete Electrolysis
+Sterilization will be done & out-sediment Pre Filter
+Candle will be replaced at each visit.
+6. If any of the colored internal or external components is
+replaced, LGEIL is committed to ensuring that the
+shades match the original or other components. The
+replaced shades, patterns, or tints may vary from the
+customers unit due to continuous usage of the unit.
+Any matching component changed at the customers
+request other than the component that is actually
+needed will be charged.
+7. This warranty will automatically be terminated upon
+the expiration of the warranty period specied above,
+
+even if the LG product may not be in use at any time
+during the warranty period for any reason.
+8. In case of any unpredicted situation, and spares are not
+available, LGs prevailing depreciation policy (subject to
+the sole discretion of LGEIL, may be changed without prior
+notice) will be applied to the product as a solution.
+9. Only courts in the state of Delhi and places where LGEIL
+has a branch ofce shall have jurisdiction over the
+settlement of any and all claims and disputes arising
+during the warranty.
+
+WHAT THIS WARRANTY DOES NOT COVER
+1. Visiting charges of the service engineer for units installed
+beyond the municipal limits of the jurisdiction of the
+companys Authorized Service Center. All expenses
+incurred in collecting the units or parts thereof from the
+companys authorized service center as well as expenses
+incurred from deputizing service personnel/technicians for
+conveyance and other incidentals, etc., shall be borne by
+the customer. Local charges for transportation and
+handling charges may vary by location. Customers are
+advised to verify in advance. If the customer wishes to
+bring the unit on his/her own to an authorized service
+center, such shall be at his/her own risks & consequences.
+2. Reinstallation or uninstallation of product based on
+customer demand. Packing material, if used, will also be
+charged.
+3. Transportation cost in case customer is moving the
+product to another location.
+4. Damage resulting from operating the product in a corrosive
+atmosphere or contrary to the instructions outlined in the
+products owners manual.
+5. Replacement of all inside lters (Sediment, Pre carbon,
+Post Carbon, RO Membrane) are not covered by this
+warranty.
+6. Damage to the product caused by accidents, pests and
+vermin, lightning, wind, re, oods, or acts of God.
+7. Damage resulting from misuse, abuse, improper
+installation, repair, or maintenance. Improper repair
+includes use of parts other than those approved or
+specied by LGEIL.
+8. Damage or failure caused by unauthorized modication or
+alteration or use for purposes other than the intended
+purpose or any water leak in case the unit was not
+properly installed.
+9. Damage or failure caused by incorrect electrical current,
+voltage, or inadequate electrical services, commercial or
+industrial use, or use of spurious/fake accessories or
+components or cleaning products other than those
+approved by LGEIL.
+10.Damage caused by transportation and handling, including
+scratches, dents, chips, and/or other damage to the nish
+of your product, unless such damage is caused by a defect
+in materials or workmanship and reported within fteen (15)
+days of delivery (Call 1800-315-9999, 1800-180-9999)
+11.Damage or missing items of any display, open box,
+discounted or refurbished product.
+12.Free accessories provided external to the product.
+13.Damage to the product if the customer has the product
+repaired by an unauthorized dealer/person.
+14.Upon removal, tampering, or alteration of the serial
+number/identication labels on the machine or any of its
+components.
+
+LG Electronics
+India Pvt. Ltd.
+A  Wing (3 rd Floor),
+D-3, District Centre, Saket
+New Delhi  110017
+www.lg.com/in
+
+25
+
+Memo
+
+Memo
+
+fo"k; lwph
+
+blesa fn;s x;s fp= ;k vkd`fr vkids }kjk [kjhns x;s
+ekWMy ls vyx gks ldrs gSaA
+;g xkbZM fuekZrk }kjk la'kks/ku ds v/khu gSA
+
+lqj{kk funsZ'k .............................................................................. 02
+egRoiw.kZ lqj{kk funsZk .................................................................................... 03
+
+LFkkiuk .................................................................................... 06
+ikVZl o QaDku ............................................................................................ 06
+LFkkiuk ds fy, uksV ...................................................................................... 08
+ty 'kqf)dkjd dks LFkkfir djuk ...................................................................... 08
+
+izpkyu ..................................................................................... 09
+pkyu ds fy, uksV ...................................................................................... 09
+daVksy iSuy dk mi;ksx ................................................................................. 09
+izpkyu ...................................................................................................... 10
+
+izca/ku ......................... ............................................................. 11
+lQkbZ ........................... .............................................................................
+
+11
+fQYVj dh ns[kHkky ....................................................................................... 12
+
+leL;k fuokj.k ......................................................................... 14
+ikuh dk ikbZfiax Mk;xzke ............... blds fy, vaxzsth eSuqvy dk ist 17 ns[ksa
+mRikn fofunsZ'k ............................... blds fy, vaxzsth eSuqvy dk ist 21 ns[ksa
+okjaVh dkMZ .................................... blds fy, vaxzsth eSuqvy dk ist 23 ns[ksa
+
+lqj{kk funsZ'k
+fuEufyf[kr lqj{kk funsZ'k vizR;kf'kr [krjs ;k mRikn ds vlqjf{kr ;k xyr izpkyu ls gksus okys uqdlku dks jksdus
+ds fy, vfHkizsr gSaA
+lqj{kk funsZ'kksa dks *psrkouh* vkSj *lko/kkuh* esa foHkkftr fd;k x;k gSA
+;g fu'kku mu ekeyksa dks n'kkZrk gS tks [krjs dk dkj.k cu ldrk gSA bl fukku okys Hkkx dks /;ku ls
+i<+sa vkSj [krjs ls cpus ds fy, funsZ'kksa dk ikyu djsaA
+
+psrkouh&;g n'kkZrk gS fd lgh <ax ls funsZ'k dk ikyu djus esa foQyrk ls e`R;q gks ldrh gS ;k
+xEHkhj pksV yx ldrh gSA
+
+lko/kkuh&;g n'kkZrk gS fd lgh <ax ls funsZ'k dk ikyu djus esa foQyrk ls ekewyh pksV yx ldrh
+gS ;k mRikn dks uqdlku gks ldrk gSA
+
+psrkouh
+vius mRikn dk iz;ksx djrs gq, vkx yxus] fctyh dk >Vdk yxus ;k yksxksa ds pksVxzLr gksus ds [krjs dks de
+djus ds fy, lko/kkfu;ksa dk ikyu fd;k tkuk pkfg,] ftlesa fuEufyf[kr 'kkfey gSaA
+
+rduhdh lqj{kk
+ midj.k ds ?ksjko ;k fuekZ.k <kps esa ok;qlapkj }kj [kqyk j[ksaA
+ uekZrk ds }kjk lq>kfor midj.k ds vykok fdlh Hkh ckgjh ;kaf=d midj.k dk iz;ksx fMQz kfLVax
+
+
+
+
+
+
+
+
+
+
+
+izfdz ;k dh rsth ykus ds fy, u djsaA #
+'khry lapkj ifjiFk dks {kfrxzLr u djsaA #
+midj.k ds [kk| HkaMkj.k [kaM ds vUnj fdlh Hkh fo|qrh; midj.k dk iz;ksx u djsa tc rd fd og
+fuekZrk }kjk lq>kfor u fd;k x;k gksA
+midj.k esa iz;ksx fd;s x, 'khryd ,oe~ rkikojks/ku fjlko xSl dk foks"k fuiVku izfdz ;k dh t:jr
+gksrh gS] fo?kVu ds nkSjku d`i;k izfrfuf/k vFkok lerqY; O;fDr ls ijkekZ ysaA #
+z aV vkblksC;wVsu (R600a), dk iz;ksx fd;k x;k gSA ;g izkd`frd xSl mPp
+bl midj.k esa jsfQtjs
+i;kZoj.k vuwdqfyr gS ijarq ;g ngukhy gSA ifjogu vkSj LFkkiuk djrs le; lqfufpr djsa] fd
+jsfQz tjsaV lfdZV dk dksbZ Hkh fgLlk {kfrxzLr u gksA #
+z aV ikbi ls yhd gksus ij vkx yx ldrh gS ;k vk[ksa {kfrxzLr gks ldrhs gSaA #
+jsfQtjs
+;fn fdlh Hkh izdkj ds fjlko dk irk pys rks vkx o dksbZ Hkh Toyukhy Lkzksr dks nwj j[ksa vkSj
+midj.k ds ikl okyh txg dks [kqyh j[ksaA #
+z aV dh ek=k igpku IysV ij nkkZ;h xbZ gSA #
+midj.k ds vanj jsfQtjs
+fdlh Hkh izdkj ds uqdlku gksus ds y{k.k ij midj.k dks 'kq# u djsa vkSj leL;k gksus ij Mhyj ls
+lEidZ djsaA
+LG bySDVkWfuDl lfoZl lsaVj ls vf/kd`r O;fDr gh mRikn dks lakks/ku djus ds fy, ekU; gSA mRIkkn
+dh LG fLFkfr cnyus ds fy, bySDVkWfuDl lfoZl lsaVj ls laidZ djsaA vuqfpr lfoZl ls pksV yxus]
+fctyh ds >Vds rFkk vkx yxus dk [krjk gSA
+
+# dsoy xeZ ,oa BaMs o cQZ okys ekWMyksa ds fy,
+
+02
+
+egRoiw.kZ lqj{kk funsZk
+lko/kkuh
+vius mRikn dk iz;ksx djrs gq, foLQksV gksus] vkx yxus] tku tkus] fctyh dk >Vdk yxus] tyus ;k
+fdlh O;fDr ,oa thfor tUrq dks pksV yxus ds [krjs dks de djus ds fy, lko/kkfu;ksa dk ikyu fd;k
+tkuk pkfg, ftlesa fuEufyf[kr 'kkfey gSa A
+
+LFkkiuk
+ mRikn dh LFkkiuk dsoy
+
+LG lfoZl
+
+VSDuhfk;u ds }kjk djok,aA
+ lqj{kk ds fy, midj.k dh xzkmfMax djsaA xzkmfMax ij vkSj tkudkjh ds fy,
+lsaVj ls lEidZ djsaA #
+
+LG
+
+bySDVkWfuDl lfoZl
+
+ dkmaVj&VkWi LFkkiuk ds fy,] midj.k dks Bksl vkSj cjkcj lrg okys LFkku ij LFkkfir djsaA vfLFkj
+
+LFkku ij LFkkfir djus ls 'kksj vkSj dEiu mRiUu gks ldrk gS ;k mRikn dk lajs[k.k fcxM+ ldrk gSA
+ midj.k dks fdlh xhys ;k ,sls LFkku ij LFkkfir u djsa tgk ikuh ;k cjlkr ds NhaVs vkrs gksaA
+
+#
+
+ikWoj
+ ;g midj.k xzkmfMax daMDVj ,oa xzkmfMax Iyx ds lkFk lqlfTtr gSA Iyx dks mfpr vkmVysV esa gh
+yxk,a tks fd Bhd ls LFkkfir gks rFkk ftlesa LFkkuh; dksM vkSj fu;e ds vuqlkj xzkmfMax gksA ##
+#
+ dsoy xzkmfMax ,DlVsaku lkWdsV dk gh iz;ksx djsaA
+ ,d gh vkWmVysV ;k ,DLVsaku dkWMZ ij dbZ midj.k uk yxk,saA
+ xhys gkFkksa ls ikWoj Iyx dks u Nw,aA
+ ikWoj Iyx ls ueh ,oa /kwy gVk dj vkmVysV esa yxk,aA
+ ikWoj Iyx dks vkmVysV ls fudkyus ds fy, Iyx dks idM+sa u fd dscy dksA
+ ;fn ikWoj Iyx ;k dscy {kfrxzLr gks ;k vkmVysV ds Nsn <hys gksus ij] mudk iz;ksx u djsa vkSj LG
+bySDVkWfuDl lfoZl lsaVj ls lEidZ djsaA
+ xM+xM+kgV ,oe vkdkkh; fo|qr pkyu ;k yEcs le; ds nkSjku mi;ksx uk vkus ij ikWoj Iyx dks
+vyx djsaA
+ ikWoj igqpkus okys rkj dks eqM+h fLFkfr esa uk jgus nsa rFkk dksbZ Hkkjh oLrq mlds ij uk j[ksaA
+ ikWoj Iyx ds lkFk yxs rkj dh yackbZ dks dkV&NkaV dj yack ;k NksVk uk djsaA
+ midj.k ds Iyx dks ckj&ckj yxk,a vkSj fudkysa ughaA
+
+# dsoy xeZ ,oa BaMs o cQZ okys ekWMyksa ds fy,
+
+03
+
+izpkyu
+ ck<+ vkus dh fLFkfr ij midj.k dk mi;ksx uk djsa vkSj LG bySDVkWfuDl lfoZl lsaVj ls lEidZ djsaA
+ ;fn xSl vkblksC;wVsu] izksisu] izkd`frd xSl bR;kfn dk fjlko gksrk gS] rks midj.k ;k ikWoj Iyx dks uk
+
+
+
+
+
+
+
+
+
+
+
+Nw,a vkSj {ks= esa rqjar gok vkus &tkus nsaA fpaxkjh ls /kekdk gks ldrk gS] vkx yx ldrh gS ,oa pksV Hkh
+yx ldrh gSA ;g midj.k jsfQz tjsaV ds :i esa i;kZoj.k vuqdqfyr xSl vkblksC;wVsu] R600a dk iz;ksx
+djrk gSA gkykafd xSl dk iz;ksx de ek=k esa gksrk gS ijarq ;g ngukhy gSA #
+midj.k dks czk] [kqjnjk lrg okys Liat ;k /kkrq ls cus czk ;k Liat ls lkQ u djsaA
+tc midj.k ls fdlh vthc xa/k ;k /kqvka fudyus dk irk pys] rks rqjar ikWoj Iyx dks vyx dj nsa vkSj
+LG bySDVkWfuDl lfoZl lsaVj ls laidZ djsaA
+mRikn ds uhps ;k ihNs xehZ NksM+us okys fxzy fudkl ikbZi ij gkFk ;k dksbZ /kkrq dh oLrq u j[ksaA #
+[kqys gq, mRikn esa rst fdukjs gks ldrs gSa] gkFk ls idM+rs le; foks"k /;ku j[ksaA
+mRikn ds ij ;k vUnj dksbZ Hkkjh oLrq] rjy inkFkZ] ngukhy inkFkZ ;k Toyukhy oLrq,sa tSls eksecRrh
+vkSj ySEi uk j[ksaA
+Toyukhy inkFkksaZ bZFkj] csathu] 'kjkc] jlk;u] dhVukkd] jlksbZ xSl] ,;j Qz Skuj] dkWLeSfVDl bR;kfn
+dks mRikn ds ikl u j[ksaA
+;fn ueh mRikn ds vanj izosk dj tk, rks ikWoj Iyx dks gVk nsa vkSj LG bySDVkWfuDl lfoZl lsaVj ls
+laidZ djsaA
+;fn mRikn ds vanj ls ikuh dk fjlko gks ;k mRikn ds ikl ikuh tek gks tk, rks ikuh ds vkiwfrZ okYo
+dks can dj nas] ikWoj Iyx dks fudky nsa] vkSj LG bySDVkWfuDl lfoZl lsaVj ls laidZ djsaA
+mRikn dk ikWoj Iyx tc lkWdsV ls tqM+k gks rks mRikn dk LFkkukarj.k u djsaA
+
+lko/kkuh
+vius mRikn dk iz;ksx djrs gq, fdlh O;fDr dks pksV yxus] mRikn ds foQy gksus] mRikn ;k laifk
+dks uqdlku igqpus ds [krjs dks de djus ds fy, lko/kkfu;ksa dk ikyu fd;k tkuk pkfg, ftlesa
+fuEufyf[kr 'kkfey gSaA
+
+LFkkiuk
+ mRikn ds ikuh ds ikbi dks uy ds ikuh ls gh tksM+saA uy ds vykok vU; ikuh ls jksx gksus dk [krjk
+
+c<+ ldrk gSA
+
+ xeZ ikuh fNM+d ldrk gS] Msu ikbi dks Msu dh rjQ /;ku ls LFkkfir djsaA
+
+#
+
+# dsoy xeZ ,oa BaMs o cQZ okys ekWMyksa ds fy,
+
+04
+
+izpkyu
+ fQYVj dks izfrLFkkiu vof/k ds vuqlkj LG ds ekud fQYVj ls gh cnysaA iqjkus fQYVj cSDVhfj;k dks cM+k
+
+
+
+
+
+
+
+ldrs gaS ;k ikuh dk Lokn cny ldrs gSaA fQYVj dh izfrLFkkiu vof/k ikuh dh xq.koRrk] mi;ksx djus ds
+LFkku vkSj ekSle ij fuHkZj djrh gSA
+xeZ ikuh dk mi;ksx djrs gq,] gsaMy okys crZu dk iz;ksx djsaA xeZ ikuh QaDku okys ekWMy ds fy, ykxq gS #
+;fn fMi Vs MsLd ;k est ls ckgj fudy jgh gks rks] fMi Vs ij dksbZ oLrq uk j[ksaA
+ikuh ds fjlko dks cpkus ds fy, ikbi buysV] vkmVysV dks uqdlku igqpus ls cpk,saA
+mRikn dks lkQ djus ls igys] ikWoj Iyx dks fudky nsaA
+mRikn ij fdlh dks p<+us ;k yVdus u nsaA foks"k :i ls cPpksa ds mRikn izpkyu djus ls lrdZ jgsaA
+
+# dsoy xeZ ,oa BaMs o cQZ okys ekWMyksa ds fy,
+
+05
+
+LFkkiuk
+ikVZl o QaDku (WAW3* Js.kh ds fy, )
+vkxs o ihNs
+6
+
+1
+4
+
+5
+
+7
+
+2
+3
+
+8
+
+'kq) ikuh ds Lrj dk lwpd
+
+ikuh dh vkiwfrZ dh uyh
+
+Vp yhoj
+
+Msu uyh
+
+fQYVj doj
+yksjy iSVuZ*
+
+VkWi doj
+yksjy iSVuZ*
+
+Qy o lfCt;k /kksus dk ikuh*
+
+ikWoj dkWMZ
+
+lgk;d midj.k
+Owners
+manual
+
+Mounting
+guide
+
+xkbZM
+
+yxkus dh xkbZM
+
+3@8 V;wc *
+
+3@8 okYo *
+
+ikuh dh Vs *
+
+ikuh dh Vs dk doj *
+
+* dsoy pqfuank ekWMyksa ds fy,
+
+06
+
+LFkkiuk
+ikVZl o QaDku (WW1* Js.kh ds fy, )
+vkxs o ihNs
+7
+
+10
+
+'kq) ikuh ds Lrj dk lwpd
+
+ikuh dh vkiwfrZ dh uyh
+
+Vp yhoj
+
+Msu uyh
+
+;woh LVsjykbZftax dk lwpd *
+
+VkWi doj
+yksjy iSVuZ*
+
+fQYVj doj
+yksjy iSVuZ*
+
+Qy o lfCt;k /kksus dk ikuh*
+
+ikWoj dkWMZ
+10
+
+fQYVj cnyus dk funsZkd ^
+
+lgk;d midj.k
+Owners
+manual
+
+Mounting
+guide
+
+xkbZM
+
+yxkus dh xkbZM
+
+3@8 V;wc *
+
+3@8 okYo *
+
+ikuh dh Vs *
+
+ikuh dh Vs dk doj *
+
+* dsoy pqfuank ekWMyksa ds fy,
+
+07
+
+LFkkiuk ds fy, uksV
+ mRikn dks goknkj txg ij j[ksa] mRikn dh nksuks vksj o ihNs
+
+ty 'kqf)dkjd dks LFkkfir djuk
+#
+
+,oa nhokj ls 10lseh- dh nwjh cuk dj j[ksaA ,slk uk djus ls
+mRikn foQy gks ldrk gSA
+
+1
+
+mRikn dh gkst uhps fn[kkbZ x, <ax ls tksM+sa
+ lQsn gkst ikuh vkiwfrZ dks uy ds ikuh ls tksMsaA
+
+ mRikn ds ikuh ds ikbi dks xeZ ikuh ds ikbi ls u tksM+saA ,slk
+
+ uhys gkst Msu dks flad ij LFkkfir djsaA
+
+djus ls mRikn foQy gks ldrk gSA
+
+ ikbi vkSj gkst ds duSDku dks ikuh ds fjlko ds fy, tkp ysaA
+
+ikuh ds fjlko ls fctyh dk >Vdk ,oe pksV yx ldrh gSA
+
+ ifjogu ds le; mRikn dks 30 fMxzh ls vf/kd uk >qdk,aA ,slk
+
+djus ls mRikn foQy gks ldrk gSA
+
+ mRikn dk ?kj esa ,sls LFkku ij LFkkfir djsa tgk rkieku 5 C ls
+vf/kd gks vkSj 43 C ls de gksA ,slk uk djus ls mRikn foQy
+
+lQsn gkst
+
+gks ldrk gSA
+
+ mRikn dks ,slh txg ij LFkkfir uk djsa tgk vf/kd ek=k esa ueh
+
+gks] lh/kh /kwi gks] /kwy gks] ikuh dk lh/kk fNM+dko gks ;k vlery
+lrg gksA
+
+uhyk gkst
+
+2
+
+ikWoj Iyx dks mfpr lkWdsV ls tksM+saA
+
+3
+
+ikuh ds vkiwfrZ okYo dks [kksysaA
+
+4
+
+Vsad iwjk Hkj tkus ij ,d ckj ikuh fudky nsaA VSad iwjk Hkjus
+esa yxHkx 1 ?kaVs dk le; yxsxk] ij ;s le; ikuh ds nckc]
+rkieku vkfn ij fuHkZj djrk gSA)
+
+# dsoy xeZ ,oa BaMs o cQZ okys ekWMyksa ds fy,
+
+08
+
+pkyu
+pkyu ds fy, uksV
+ ikuh ds vkiwfrZ okYo dks [kksysaA ikuh dh Bhd ls vkiwfrZ gksus ij
+
+mRikn lkekU; :Ik ls pyrk gSA
+
+daVksy iSuy dk mi;ksx
+(WAW3* Js.kh ds fy, 
+
+ tc xeZ vkSj BaMs ikuh dk vkbdkWu can gks rks] fo|r vkiwfrZ dh
+
+tkp djsaA #
+
+ LoPN ikuh izkIr djus ds fy, le;&le; ij fQYVj dks
+
+cnyuk cgqr egRoiw.kZ gSA xrkof/kd fQYVj dk iz;ksx djus ls
+mRikn dh dk;Z{kerk esa deh vk ldrh gSA geskk fQYVj
+izfrLFkkiu vof/k dk iz;ksx djsaA
+ ;fn mRikn dk iz;ksx yacs le; rd ugha fd;k tkrk rks] BaMs
+
+ikuh #] lkekU; rkieku ds ikuh ,oe xeZ ikuh # dks 10 feuV
+rd fudkysa vkSj rc mRikn dk mi;ksx djsaA iqjkuk tek ikuh
+cSDVhfj;k dks c<+k ldrk gS ;k ikuh dk Lokn cny ldrk gSA
+
+(WW1* Js.kh ds fy, 
+
+ LoPN ikuh dk mi;ksx qfefMQkW;j ,oe fQkcky esa uk djsaA
+
+LoPN ikuh dks vf/kd le; rd [kqyk NksM+us ls cSDVhfj;k c<+
+ldrs gSaA
+
+3
+
+ mRikn dk doj iw.kZ :i ls can djus ds ckn gh mRikn dk
+
+mi;ksx djsaA vU;Fkk dhMs+ ;k okg; inkFkZ mRikn esa tk ldrs gSaA
+
+fctyh cpkus ds lq>ko
+
+ikuh ds Lrj dk lwpd
+Vsad esa ikuh dk Lrj 3 Lrj rd fn[kkbZ nsrk gSA
+
+ ;fn mRikn dk iz;ksx yacs le; rd ugha fd;k tk, rks ikWoj
+
+Iyx dks fudky nsa vkSj mRikn ls iwjk ikuh fudky nsaA
+
+ ;g vkbdkWu ikuh ds Lrj ds vuqlkj 3 Lrjksa esa foHkkftr gSA
+ ;fn xeZ ;k BaMs ikuh dk mi;ksx ugha fd;k tk jgk gS rks] bl
+
+QaDku dks can dj nsaA #
+
+ftrus ySEi tyrs tk,xsa] ikuh dk Lrj Hkh c<+rk tk;sxkA
+;g euekus <ax ls lek;ksftr ugha fd;k tk ldrkA
+
+(WAW3* Js.kh ds fy, 
+
+(WW1* Js.kh ds fy, 
+
+Level 1
+
+* dsoy pqfuank ekWMyksa ds fy,
+# dsoy xeZ ,oa BaMs o cQZ okys ekWMyksa ds fy,
+
+09
+
+Level 2
+
+Level 3
+
+;woh LVsjykbZftax dk lwpd *
+
+izpkyu
+
+LoPN ikuh ;woh LED ds }kjk LVSjhykbt fd;k tkrk gSA
+uhyk jax nkkZrk gS dh ;woh LVsjykbtsku iz;x esa gSa vj
+lQsn jax nkkZrk gS dh ;woh LVsjykbtsku can gS A
+
+Using purified water
+
+(VSad doj [kyus ij, ;woh LED Lo;a ls vkidh
+lqj{kk ds fy, can g tk,xhA)
+
+NOTE
+yxkrkj ikuh izkIr djus ds fy, yhoj dks ij [khapsaA
+
+LoPN ikuh dk iz;ksx
+
+UkksV
+;woh
+
+LED
+
+2 fLFkfr esa izpfyr gksrk gSA
+
+ gj 6 ?kaVs ipkr 75 feuV rd izpfyr gksrk gSA
+ ikWoj tkus ds ckn] iqu% vkus ij 2 lsdsaM ds ipkr 75 feuV rd
+
+izpfyr gksrk gSA
+
+3
+
+fQYVj cnyus dk funsZkd
+
+*^
+
+funsZkd dk jax uhys ls ,Ecj guk nkkZrk gS fd fizosafVo esaVsusal
+dk le; g pqdk gSA d`i;k LG dLVej ds;j ij dkWy yxk,saA
+
+Qy vkSj lfCt;k /kksus dk ikuh iz;ksx djus
+ds fy, *
+vki Qy] lfCt;k] crZu /kks ldrs gSa rFkk nkrksa dks czk dj
+ldrs gSaA
+tc rd okYo [kqyk gS ;g QaDku ikuh dks fudkyrk jgsxkA
+
+okYo [kqyk
+
+okYo cUn
+
+UkksV
+bl ikuh dk mi;ksx ihus vkSj [kkuk cukus ds fy, u djsaA
+
+* dsoy pqfuank ekWMyksa ds fy,
+
+10
+
+izca/ku
+lQkbZ
+Vsad dks lkQ dSls djsa
+
+1
+
+ikuh vkiwfrZ okYo dks can djsaA
+
+2
+
+Msu gkst vkSj ikuh ds vkmVysV ds iz;ksx ls VSad dks iwjk
+[kkyh djsaA bl ikuh dks fxjk,a ughaA
+
+4
+
+VkWi doj dks ij mBkdj gVk nsa] vkSj VSad ds doj dks
+[kksy nsaA
+lko/kkuh % /;ku ls idM+sa] rst fdukjksa ls pksV yx
+ldrh gSA
+(WAW3* Js.kh ds fy, 
+
+(WW1* Js.kh ds fy, 
+
+(WAW3* Js.kh ds fy, 
+
+lko/kkuh % VSad ds doj ij nckc ;k otu u Mkysa] blls uqdlku
+;k pksV yx ldrh gSA
+
+(WW1* Js.kh ds fy, 
+
+3
+
+ikWoj Iyx ckgj fudkysaA
+
+* dsoy pqfuank ekWMyksa ds fy,
+
+11
+
+5
+
+eqyk;e lkQ diM+s ls VSad dh lrg dks lkQ djsaA
+
+
+6
+
+fudkys x, LoPN ikuh ls VSad dks vPNh rjg [kaxkysa vkSj fQj
+iwjh rjg ikuh dks fudkysaA
+lko/kkuh % ikuh dks Nydus ls cpk,a] blls fctyh ds >Vds
+yxus dk [krjk gks ldrk gSA
+
+Vsad doj yxkdj mls ykWd dj nsaA
+
+7
+
+fMi Vs dks dSls lkQ djsa
+fMi fxzM dks ij mBkdj gVk,aA
+
+1
+
+lko/kkuh % /;ku ls idM+sa] rst fdukjksa ls pksV yx
+ldrh gSA
+
+VkWi doj dks can djsa] ikWoj dkMZ dks yxk,a ,oe ikuh ds
+vkiwfrZ okYo dks [kksy nsaA
+
+8
+
+2
+
+fMi Vs dks vkxs dh vksj [khapdj gVk,aA
+
+3
+4
+
+ikuh ls lkQ djsaA
+
+ VSad lkQ djus ls igys ikWoj Iyx fudky nsaA
+
+5
+
+mRikn ij fMi Vs yxk,aA
+
+ VSad lkQ djus ds fy, uy ds ikuh dk iz;ksx u djsaA
+
+6
+
+fMi fxzM dks fMi Vs ij j[ksa] mRikn ds lkeus dh vksj layXu
+djsa] vkSj fQj LFkkfir djus ds fy, gYdk lk /kdsysaA
+
+Vsad dks ikuh ls Hkjus esa le; yxrk gSA yxHkx 1 ?kaVs rd
+izrh{kk djsa] Vp yhoj nck,a vkSj ikuh dh tkp djsa] VSad iwjk
+Hkjus dk le; ikuh ds nckc ij fuHkZj djrk gSA
+
+9
+
+UkksV
+
+fMi Vs dh lrg dks eqyk;e lkQ diM+s ls lkQ djsaA
+
+ VSad lkQ djus ds fy, fdlh Hkh jlk;u ;k fMVtsZaV dk iz;ksx u
+
+djsaA jlk;u ;k fMVtsZaV iwjh rjg ls ugha fudysxk] ;g ekuo
+'kjhj ds fy, gkfudkjd gks ldrk gSA
+
+ikuh ds vkmVysV dks dSls lkQ djsa
+UkksV
+
+1
+
+vkmVysV dks lkQ uje czk ls fu;fer :i ls lkQ djsaA
+ckgjh lkexzh vkmVysV ij tek gks ldrh gSA
+
+ ;fn fMi Vs esa vf/kd ek=k esa ikuh gS rks] fMi Vs fudkyus ij ikuh
+
+fc[kj ldrk gS] lko/kkuh cjrsaA
+
+fQYVj dh ns[kHkky
+lkQ djus dh izfdz ;k
+Ikhus dk ikuh
+Pkj.k 1% vkmV&lsMhesaV fQYVj*
+ CkM+h vkqf);ka] tax ds nkx] feh bR;kfn dks fudkyrk gSA
+
+Pkj.k 2% lsMhesaV fQYVj
+ u fn[kkbZ nsus okys d.k vkSj vU; inkFkZ dks fudkyrk gSA
+
+Pkj.k 3% izh&dkcZu fQYVj
+ vn`; eghu d.k] Dyksjhu] ,oe VOCokf"ir dkcZfud ;kSfxdksadks
+* dsoy pqfuank ekWMyksa ds fy,
+
+fudkyrk gSA
+12
+
+Pkj.k 4% RO eseczsu fQYVj
+ ?kqyh gqbZ vkqf);ka] Hkkjh /kkrq inkFkZ] cSDVhfj;k] ok;jl]VOC bR;kfn dks
+ikuh ls fudkyrk gSA
+
+UkksV
+ Msu ikuh dk mi;ksx ihus vkSj [kkuk cukus ds fy, u djsaA
+
+Pkj.k 5%
+
+ bl ikuh dk mi;ksx ckFk:e vkSj ?kj dh lQkbZ ds fy, ;k diM+s
+
+(WAW3* Js.kh ds fy,
+
+ dkcZu ds d.k dHkh&dHkh fQYVj ls fudy dj VSad esa tk ldrs
+
+iksLV&dkcZu fQYVj
+ nqxZa/k fudkyrk gS vkSj ikuh ds Lokn dks c<+krk gSA
+
+/kksus ds fy, djsaA
+
+gSaA ;fn ,slk gks] rks dkcZu ds ckjhd d.k iksLV&dkcZu fQYVj ls
+fudy x, gSa vkSj ;g ekuo 'kjhj ds fy, gkfudkjd ugha gSaA ,slk
+gksus ij VSad ls iwjk ikuh fudky nsaA
+
+(WW1* Js.kh ds fy,
+feujy cwLVj fQYVj
+
+ v'kq) ikuh dks feyk;s fcuk] 'kq) gq, ikuh esa feujYl dks feykrk gSA
+
+fQYVj dks cnyus dh vof/k
+fQYVj cnyus dh vof/k ml vof/k dks nkkZrh gS ftlesa fQYVj dk
+'kqf)dj.k iznkZu cuk jgs] vj ;g vof/k ,lh txgksa ij de jgrh gS
+tgk ikuh dh xq.koRrk [kjkc gks ;k mRikn dk mi;ksx 10 yh- ls
+vf/kd gksA
+
+fQYVj dk uke
+
+laLrqr 'kqf)dj.k ek=k**
+
+vkmV&lsMhesaV fQYVj
+
+3000 
+
+lsMhesaV fQYVj
+
+6000 
+
+izh&dkcZu fQYVj
+
+6000 
+
+RO eseczsu fQYVj
+
+6000 
+
+Pkj.k 1% vkmV&lsMhesaV fQYVj
+
+iksLV&dkcZu fQYVj*
+
+6000 
+
+ CkM+h vkqf);ka] tax ds nkx] feh bR;kfn dks fudkyrk gSA
+
+feujy cwLVj fQYVj*
+
+6000 
+
+UF eseczsu fQYVj
+
+6000 
+
+Qy vkSj lfCt;ka /kksus dk ikuh*
+
+Pkj.k 2% UF eseczsu fQYVj
+ cSDVhfj;k] vkSj eghu d.kksa dks fudkyrk gSA
+
+UkksV
+ fQYVj cnyokus ds fy, LG bySDVkWfuDl lfoZl lsaVj ls lEidZ
+
+djsaA
+
+ fQYVj cnyus ds ckn ;g tkp ysa fd ikuh dk fjlko uk gksA
+ LFkkiuk ds ckn] VSad ,d ckj iwjk Hkj tkus ij ikuh fudky ds
+
+R;kx nsaA VSad iwjk Hkjus esa yxHkx 1 ?kaVs dk le; yxsxk] ij ;s le;
+ikuh ds nckc] rkieku vkfn ij fuHkZj djrk gSA
+
+ mRikn esa lIykbZ fd, x, ikuh dks yxHkx 25% fgLlk ikuh 'kq)
+gksdj izkIr gksxk ckfd Msu gks tk;sxkA ;g uy ds ikuh d 3.5
+kgf/cm2 ds ncko vkSj 25 C ds rkieku ij vk/kkfjr gSA
+
+* dsoy pqfuank ekWMyksa ds fy,
+** LGEIL LVSUMMZ ds vuqlkj
+
+13
+
+leL;k fuokj.k
+y{k.k
+
+dkj.k
+D;k ikWoj cUn gS\
+
+ikuh ckgj ugha vk jgkA
+
+ ikWoj vkWu dj nsaA
+
+D;k mRikn dk yacs le; ls mi;ksx
+ugha gqvk gS\
+
+ cSDVhfj;k c<+us ds dkj.k] ikuh dk Lokn vlekU;
+
+D;k mRikn dks LFkkfir fd;s gq, ;k
+fQYVj cnys gq, yack le; gks x;k gS\
+
+ iqjkus fQYVj dk iz;ksx djus ls mRikn dh dk;Z
+
+D;k fQYVj cnyus dk le; gks x;k gS\
+
+ fQYVj cnyus ds fy, vuqjks/k djsaA
+
+D;k ikuh dk vkiwfrZ dk okYo can gS\
+
+ ikuh ds okYo dks [kksy nsaA
+
+D;k vkius fQYVj le; ij ugha
+cnys gSa\
+
+ fQYVj cnyus ds fy, vuqjks/k djsaA
+
+D;k ikuh dk vkiwfrZ dk okYo can gS\
+
+ ikuh ds okYo dks [kksy nsaA
+
+D;k ikWoj Iyx dks fudkyk gqvk gS\
+
+ ikWoj Iyx dks Bhd ls yxk,aaA
+
+D;k cVu nckus ij mRikn ls ikuh ugha
+fudy jgk\ #
+
+ LG bySDVkWfuDl lfoZl lsaVj ij lEidZ djsaA
+
+ikuh dk Lokn vlekU;
+
+'kq) ikuh dh ek=k es
+,dk,d dehA
+
+lek/kku
+
+D;k vkius mfpr QaDku dks can
+fd;k gS\ #
+
+gks ldrk gSA BaMk #] xeZ # vkSj lkekU; rkieku
+ds ikuh dks 10 feuV rd fudkysa vkSj rc
+mRikn dk mi;ksx djsaA
+
+{kerk esa deh vk ldrh gSA geskk fQYVj izfr&
+LFkkiu vof/k dk ikyu djsaA
+
+ mfpr QaDku dks pyk nsaA
+ I;fn vkius vf/kd ek=k esa BaMk ikuh fudky fy;k
+
+gS rc] VSad ds fQj ls Hkj tkus dh izfr{kk djsa
+vkSj fQj mi;ksx djsaA dsoy LVksjst VSad okys
+ekWMy ds fy, ykxwA
+
+BaMk ikuh #] xeZ ikuh # ;k
+lkekU; rkieku dk ikuh
+ckgj ugha vk jgkA
+
+D;k vkius vf/kd ek=k esa BaMs ikuh dk
+fuoZgu fd;k gS\ #
+
+D;k vkius vf/kd ek=k esa xeZ ikuh dk
+fuoZgu fd;k gS\ #
+
+ ;fn vki ,d gh ckj esa vf/kd ek=k esa BaMk ikuh
+
+fudky ysrs gSa rc] BaMs ikuh ds VSad esa rkieku
+c<+ tkrk gS ikuh ds fQj ls BaMk gksus dh izfr{kk
+djsa dsoy LVksjst VSad okys ekWMy ds fy, ykxwA
+
+ ;fn vki ,d gh ckj esa vf/kd ek=k esa xeZ ikuh
+
+fudky ysrs gSa rc] xeZ ikuh ds VSad esa rkieku
+fxj tkrk gS ikuh ds fQj ls xeZ gksus dh izfr{kk
+djsa dsoy LVksjst VSad okys ekWMy ds fy, ykxwA
+
+# dsoy xeZ ,oa BaMs o cQZ okys ekWMyksa ds fy,
+
+14
+
+y{k.k
+
+mRikn vlkekU; /ofu ;k
+'kksj mRiUu djrka gSA
+
+dkj.k
+
+lek/kku
+
+D;k vkius vf/kd ek=k esa lkekU; ikuh
+dk fuoZgu fd;k gS\
+
+ ;fn vki vf/kd ek=k esa 'kq) ikuh lkekU;
+
+D;k mRikn ,d fLFkj lrg ij LFkkfir
+gS\
+
+ mRikn dks fLFkj lrg ij gh LFkkfir djsaA
+
+D;k mRikn dk ihNs dk fgLlk nhokj ls
+lVk gqvk gS\ #
+
+ Lfkkfir djus ds ipkr lqfupr dj ysa fd
+
+rkieku lesr fudky ysrs gSa rc VSad ds fQj ls
+Hkj tkus dh izfr{kk djsaA vkSj rc mRikn dk
+mi;ksx djsaA dsoy LVksjst VSad okys ekWMy
+ds fy, ykxwA
+
+mRikn ds vkl&ikl i;kZIr LFkku gSA 10 lseh-
+
+D;k mRikn ds ij lkeku j[kk gqvk gS\  mRikn ds ij j[kk lkeku gVk nsaA
+
+mRikn esa cQZ ugha te jghA
+dsoy cQZ tekus okys
+ekWMy ds fy, #
+
+D;k cQZ dh ekhu dk doj [kqyk gS\
+
+#
+
+ cQZ dh ekhu dk doj can dj nsaA
+
+D;k mRikn dks ikuh vkSj fctyh dh
+vkiwfrZ fn, gq, 6 ?kaVs gks x, gSa\ #
+
+ ikuh vkSj fctyh dh vkiwfrZ ds 6 ?kaVs ckn
+
+D;k ikuh esa cqycqys mRiUu gks jgs gSa\
+
+ ikuh fudyrs le; cqycqys cu ldrs gSaA ikuh
+
+'kq) ikuh esa ckjhd d.k ik,
+tkrs gSaA
+
+mRikn mi;ksx djsaA
+
+ihus ds fy, lqjf{kr gSA
+
+ ;fn ckjhd d.k yxkrkj fn[kkbZ nsrs gSa rc ikuh
+ds okYo vkSj ikWoj dks can dj nsa vkSj LG
+
+bySDVkWfuDl lfoZl lsaVj ij lEidZ djsaA
+
+# dsoy xeZ ,oa BaMs o cQZ okys ekWMyksa ds fy,
+
+15
+
+ese
+
+
