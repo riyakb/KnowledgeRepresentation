@@ -1,7 +1,6 @@
-extraction contains 3 scripts:
-1. extract_txt.py extracts text from pdf
-	usage: python3 extract_txt.py <pdf-file> <txt-file>
-2. extract_sentences.py extracts sentences (stored as array in pickle file) from filtered text file (which contains only sentences)
-	usage: python3 extract_sentences.py <filtered-txt-file> <pickle-file>
-3. extract_triples.py extracts triples (stored in csv file) from sentences array
-	usage: python3 extract_triples.py <pickle-file> <csv-file>
+1. extract_table.py extracts table from specified pages of pdf
+	usage: python3 extract_table.py <pdf-file> <specified-pages> <start-string-of-csv-files>.csv
+	Example: python3 extract_table.py washing_machine_manual.pdf 39-43 wm1_ts.csv
+2. table_to_kg.py converts given table to knowledge graph
+	usage: python3 table_to_kg.py <start-string-of-csv-files> <output-file>
+	Example: python3 table_to_kg.py wm1_ts wm1_ts_kg.png
